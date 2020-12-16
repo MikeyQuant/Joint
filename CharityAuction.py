@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import ezsheets
 from PIL import Image
 def process_data():
     df=pd.read_csv("PortnoyAuctionItems.csv")
@@ -12,9 +11,6 @@ def process_data():
     biddings=pd.read_csv("BiddingHistory.csv",index_col=0)
     return df,auctions,biddings
 api="AIzaSyBD5kM1S1-yLP5GSwIT4xDIjItDr7Y4Yms"
-"""SAMPLE_SPREADSHEET_ID = '1HhvS-I9wmNv2cgcQVAHVehofO_jdQZNcRnJGcp-YolI'
-ss=ezsheets.Spreadsheet("Form Responses 1")
-print(ss)"""
 def create_auction(auctions):
     data={}
     email=st.text_input("Enter your email address:")
