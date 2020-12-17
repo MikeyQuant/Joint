@@ -3,3 +3,4 @@ yahoo_earnings_calender
 yahoo_fin
 yahoo_fin.stock_info
 streamlit
+YahooEarningsCalendar
