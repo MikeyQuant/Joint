@@ -1,0 +1,7 @@
+,from_lat,from_lon,to_lat,to_lon,From Address,To Address
+0,42.7178462,-70.9603211,42.29781,-71.76453000000001,68+Tenney+St+Georgetown+MA, 640+Lincoln+Street+Worcester+MA Load(595)
+1,42.29781,-71.76453000000001,42.3235833,-71.7987318, 640+Lincoln+Street+Worcester+MA Load(595), 65+Pullman+Street+Worcester+MA Load(445)
+2,42.3235833,-71.7987318,42.206379,-71.7773189, 65+Pullman+Street+Worcester+MA Load(445), 266+North+Main+Street+Millbury+MA Load(400)
+3,42.206379,-71.7773189,42.0632556,-71.6694838, 266+North+Main+Street+Millbury+MA Load(400), 640+Douglas+Street+Uxbridge+MA Load(300)
+4,42.0632556,-71.6694838,42.7178462,-70.9603211, 640+Douglas+Street+Uxbridge+MA Load(300),68+Tenney+St+Georgetown+MA
+5,42.0632556,-71.6694838,42.7178462,-70.9603211, 640+Douglas+Street+Uxbridge+MA Load(300),68+Tenney+St+Georgetown+MA
