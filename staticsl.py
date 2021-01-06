@@ -3,7 +3,7 @@ import streamlit as st
 import pydeck as pdk
 mbapi="sk.eyJ1IjoibWlrZXlxdWFudCIsImEiOiJja2lqN2pvMGgwZHdyMnZxcmF2cHF4ZGR0In0.pBJ7Tv-oTyWSAd_V1SOpQw"
 def sl():
-    b=sl.radio("Select Batch:",["First Batch","Second Batch"])
+    b=st.radio("Select Batch:",["First Batch","Second Batch"])
     if b=="First Batch":
          b="F"
     else:
