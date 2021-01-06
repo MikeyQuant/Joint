@@ -1,5 +1,6 @@
 ,from_lat,from_lon,to_lat,to_lon,From Address,To Address
-0,42.7178462,-70.9603211,41.6496377,-70.88876549999999,68+Tenney+St+Georgetown+MA, 2+Pequod+Road+Fairhaven+Massachusetts Load(400)
-1,41.6496377,-70.88876549999999,42.1609168,-70.9106301, 2+Pequod+Road+Fairhaven+Massachusetts Load(400), 256+Weymouth+St+Rockland+MA Load(250)
-2,42.1609168,-70.9106301,42.7178462,-70.9603211, 256+Weymouth+St+Rockland+MA Load(250),68+Tenney+St+Georgetown+MA
-3,42.1609168,-70.9106301,42.7178462,-70.9603211, 256+Weymouth+St+Rockland+MA Load(250),68+Tenney+St+Georgetown+MA
+0,42.7178462,-70.9603211,42.2533267,-71.79909409999999,68+Tenney+St+Georgetown+MA, 76+Millbury+St+Worcester+MA Load(502)
+1,42.2533267,-71.79909409999999,42.2047079,-72.6045718, 76+Millbury+St+Worcester+MA Load(502), 380+Dwight+St+Holyoke+MA Load(402)
+2,42.2047079,-72.6045718,42.4655586,-73.212345, 380+Dwight+St+Holyoke+MA Load(402), 501+Dalton+Ave+Pittsfield+MA Load(102)
+3,42.4655586,-73.212345,42.7178462,-70.9603211, 501+Dalton+Ave+Pittsfield+MA Load(102),68+Tenney+St+Georgetown+MA
+4,42.4655586,-73.212345,42.7178462,-70.9603211, 501+Dalton+Ave+Pittsfield+MA Load(102),68+Tenney+St+Georgetown+MA

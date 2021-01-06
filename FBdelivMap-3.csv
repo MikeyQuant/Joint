@@ -1,6 +1,4 @@
 ,from_lat,from_lon,to_lat,to_lon,From Address,To Address
-0,42.7178462,-70.9603211,42.3586426,-71.7834089,68+Tenney+St+Georgetown+MA, 65+West+Boylston+Street+W+Boylston+MA Load(585)
-1,42.3586426,-71.7834089,42.3479292,-71.5132418, 65+West+Boylston+Street+W+Boylston+MA Load(585), 416+Boston+Post+Road+Marlborough+MA Load(285)
-2,42.3479292,-71.5132418,42.5187288,-70.8938867, 416+Boston+Post+Road+Marlborough+MA Load(285), 3+Dodge+Street+Salem+MA Load(60)
-3,42.5187288,-70.8938867,42.7178462,-70.9603211, 3+Dodge+Street+Salem+MA Load(60),68+Tenney+St+Georgetown+MA
-4,42.5187288,-70.8938867,42.7178462,-70.9603211, 3+Dodge+Street+Salem+MA Load(60),68+Tenney+St+Georgetown+MA
+0,42.7178462,-70.9603211,42.0870027,-71.437172,68+Tenney+St+Georgetown+MA, 5+Forge+Parkway+Franklin+MA Load(600)
+1,42.0870027,-71.437172,42.7178462,-70.9603211, 5+Forge+Parkway+Franklin+MA Load(600),68+Tenney+St+Georgetown+MA
+2,42.0870027,-71.437172,42.7178462,-70.9603211, 5+Forge+Parkway+Franklin+MA Load(600),68+Tenney+St+Georgetown+MA
