@@ -1,6 +1,7 @@
 import pandas as pd
 import streamlit as st
 import pydeck as pdk
+mbapi="sk.eyJ1IjoibWlrZXlxdWFudCIsImEiOiJja2lqN2pvMGgwZHdyMnZxcmF2cHF4ZGR0In0.pBJ7Tv-oTyWSAd_V1SOpQw"
 def sl():
     for i,b in enumerate(["F","S"]):
         if i==0:
