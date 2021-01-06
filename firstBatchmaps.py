@@ -6,7 +6,7 @@ mbapi="sk.eyJ1IjoibWlrZXlxdWFudCIsImEiOiJja2lqN2pvMGgwZHdyMnZxcmF2cHF4ZGR0In0.pB
 def sl():
     df=pd.read_csv('LeviaDeliveriesFB.csv')
     view=pdk.ViewState(latitude=df["lat"].mean(),longitude=df["lon"].mean(),pitch=20,zoom=9)
-    column_layer = pdk.Layer("ColumnLayer",data=df,get_position=["lon", "lat"],get_elevation="Cases",elevation_scale=25,radius=500,pickable=True,auto_highlight=True,)
+    column_layer = pdk.Layer("ColumnLayer",data=df,get_position=["lon", "lat"],get_elevation="Cases",elevation_scale=50,radius=500,pickable=True,auto_highlight=True,)
 
     tooltip = {"html": "<b>{Dispensary}</b>  Rev: <b>{Revenue}</b> Cases:{Cases} Flavors: Celebrate-{Celebrate} Dream-{Dream} Achieve:{Achieve}","style": {"background": "grey", "color": "white", "font-family": '"Helvetica Neue", Arial', "z-index": "10000"}}
 
