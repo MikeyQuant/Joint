@@ -164,7 +164,6 @@ protobuf==3.13.0
 pyarrow==2.0.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
-PyAudio @ file:///C:/Users/MIKEB/pipwin/PyAudio-0.2.11-cp38-cp38-win_amd64.whl
 PyAutoGUI==0.9.50
 pycodestyle==2.6.0
 pycparser==2.20
