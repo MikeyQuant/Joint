@@ -1,36 +1,34 @@
 ,from_lat,from_lon,to_lat,to_lon,From Address,To Address
-0,42.7178462,-70.9603211,42.628566,-70.645259,68+Tenney+St+Georgetown+MA, 38+Great+Republic+Drive+Gloucester+MA Load(589)
-1,42.628566,-70.645259,42.0496674,-70.1886415, 38+Great+Republic+Drive+Gloucester+MA Load(589), 220+Commercial+St+Provincetown+MA Load(539)
-2,42.0496674,-70.1886415,41.7560551,-70.7131995, 220+Commercial+St+Provincetown+MA Load(539), 112+Main+Street+Wareham+Massachusetts Load(139)
-3,41.7560551,-70.7131995,41.91832400000001,-71.324818, 112+Main+Street+Wareham+Massachusetts Load(139), 34+Extension+Street+Attleboro+MA Load(100)
-4,41.91832400000001,-71.324818,42.7178462,-70.9603211, 34+Extension+Street+Attleboro+MA Load(100),68+Tenney+St+Georgetown+MA
-5,41.91832400000001,-71.324818,42.7178462,-70.9603211, 34+Extension+Street+Attleboro+MA Load(100),68+Tenney+St+Georgetown+MA
-0,42.7178462,-70.9603211,41.6362152,-70.93420499999999,68+Tenney+St+Georgetown+MA, 177+John+Verente+Blvd+New+Bedford+MA Load(600)
-1,41.6362152,-70.93420499999999,42.7178462,-70.9603211, 177+John+Verente+Blvd+New+Bedford+MA Load(600),68+Tenney+St+Georgetown+MA
-2,41.6362152,-70.93420499999999,42.7178462,-70.9603211, 177+John+Verente+Blvd+New+Bedford+MA Load(600),68+Tenney+St+Georgetown+MA
-0,42.7178462,-70.9603211,42.0870027,-71.437172,68+Tenney+St+Georgetown+MA, 5+Forge+Parkway+Franklin+MA Load(600)
-1,42.0870027,-71.437172,42.7178462,-70.9603211, 5+Forge+Parkway+Franklin+MA Load(600),68+Tenney+St+Georgetown+MA
-2,42.0870027,-71.437172,42.7178462,-70.9603211, 5+Forge+Parkway+Franklin+MA Load(600),68+Tenney+St+Georgetown+MA
-0,42.7178462,-70.9603211,42.3586426,-71.7834089,68+Tenney+St+Georgetown+MA, 65+West+Boylston+Street+W+Boylston+MA Load(585)
-1,42.3586426,-71.7834089,42.3479292,-71.5132418, 65+West+Boylston+Street+W+Boylston+MA Load(585), 416+Boston+Post+Road+Marlborough+MA Load(285)
-2,42.3479292,-71.5132418,42.5187288,-70.8938867, 416+Boston+Post+Road+Marlborough+MA Load(285), 3+Dodge+Street+Salem+MA Load(60)
-3,42.5187288,-70.8938867,42.7178462,-70.9603211, 3+Dodge+Street+Salem+MA Load(60),68+Tenney+St+Georgetown+MA
-4,42.5187288,-70.8938867,42.7178462,-70.9603211, 3+Dodge+Street+Salem+MA Load(60),68+Tenney+St+Georgetown+MA
-0,42.7178462,-70.9603211,42.29781,-71.76453000000001,68+Tenney+St+Georgetown+MA, 640+Lincoln+Street+Worcester+MA Load(595)
-1,42.29781,-71.76453000000001,42.3235833,-71.7987318, 640+Lincoln+Street+Worcester+MA Load(595), 65+Pullman+Street+Worcester+MA Load(445)
-2,42.3235833,-71.7987318,42.206379,-71.7773189, 65+Pullman+Street+Worcester+MA Load(445), 266+North+Main+Street+Millbury+MA Load(400)
-3,42.206379,-71.7773189,42.0632556,-71.6694838, 266+North+Main+Street+Millbury+MA Load(400), 640+Douglas+Street+Uxbridge+MA Load(300)
-4,42.0632556,-71.6694838,42.7178462,-70.9603211, 640+Douglas+Street+Uxbridge+MA Load(300),68+Tenney+St+Georgetown+MA
-5,42.0632556,-71.6694838,42.7178462,-70.9603211, 640+Douglas+Street+Uxbridge+MA Load(300),68+Tenney+St+Georgetown+MA
-0,42.7178462,-70.9603211,42.8457306,-70.9228679,68+Tenney+St+Georgetown+MA, 49+Macy+St+Amesbury+MA Load(600)
-1,42.8457306,-70.9228679,42.4929904,-70.9348267, 49+Macy+St+Amesbury+MA Load(600), 462+Highland+Ave+Salem+MA Load(300)
-2,42.4929904,-70.9348267,42.7178462,-70.9603211, 462+Highland+Ave+Salem+MA Load(300),68+Tenney+St+Georgetown+MA
+0,42.7178462,-70.9603211,42.5518126,-71.5659507,68+Tenney+St+Georgetown+MA, 38+Littleton+Rd+Ayer+MA Load(486)
+1,42.5518126,-71.5659507,42.5589326,-71.583761, 38+Littleton+Rd+Ayer+MA Load(486), 31+Central+Ave+Ayer+MA Load(480)
+2,42.5589326,-71.583761,42.3586426,-71.7834089, 31+Central+Ave+Ayer+MA Load(480), 65+West+Boylston+Street+W+Boylston+MA Load(450)
+3,42.3586426,-71.7834089,42.29781,-71.76453000000001, 65+West+Boylston+Street+W+Boylston+MA Load(450), 640+Lincoln+Street+Worcester+MA Load(150)
+4,42.29781,-71.76453000000001,42.7178462,-70.9603211, 640+Lincoln+Street+Worcester+MA Load(150),68+Tenney+St+Georgetown+MA
+5,42.29781,-71.76453000000001,42.7178462,-70.9603211, 640+Lincoln+Street+Worcester+MA Load(150),68+Tenney+St+Georgetown+MA
+0,42.7178462,-70.9603211,42.3479292,-71.5132418,68+Tenney+St+Georgetown+MA, 416+Boston+Post+Road+Marlborough+MA Load(525)
+1,42.3479292,-71.5132418,42.0870027,-71.437172, 416+Boston+Post+Road+Marlborough+MA Load(525), 5+Forge+Parkway+Franklin+MA Load(300)
+2,42.0870027,-71.437172,42.7178462,-70.9603211, 5+Forge+Parkway+Franklin+MA Load(300),68+Tenney+St+Georgetown+MA
+3,42.0870027,-71.437172,42.7178462,-70.9603211, 5+Forge+Parkway+Franklin+MA Load(300),68+Tenney+St+Georgetown+MA
+0,42.7178462,-70.9603211,42.4087279,-72.53947699999999,68+Tenney+St+Georgetown+MA, 169+Meadow+Street+Amherst+MA Load(586)
+1,42.4087279,-72.53947699999999,42.2047079,-72.6045718, 169+Meadow+Street+Amherst+MA Load(586), 380+Dwight+Street+Holyoke+MA Load(550)
+2,42.2047079,-72.6045718,42.0632556,-71.6694838, 380+Dwight+Street+Holyoke+MA Load(550), 640+Douglas+St+Uxbridge+MA  Load(400)
+3,42.0632556,-71.6694838,42.3648033,-71.10212179999999, 640+Douglas+St+Uxbridge+MA  Load(400), 541+Massachusetts+Ave+Cambridge+MA Load(100)
+4,42.3648033,-71.10212179999999,42.7178462,-70.9603211, 541+Massachusetts+Ave+Cambridge+MA Load(100),68+Tenney+St+Georgetown+MA
+5,42.3648033,-71.10212179999999,42.7178462,-70.9603211, 541+Massachusetts+Ave+Cambridge+MA Load(100),68+Tenney+St+Georgetown+MA
+0,42.7178462,-70.9603211,41.6362152,-70.93420499999999,68+Tenney+St+Georgetown+MA, 177+John+Verente+Blvd+New+Bedford+MA Load(499)
+1,41.6362152,-70.93420499999999,42.7178462,-70.9603211, 177+John+Verente+Blvd+New+Bedford+MA Load(499),68+Tenney+St+Georgetown+MA
+2,41.6362152,-70.93420499999999,42.7178462,-70.9603211, 177+John+Verente+Blvd+New+Bedford+MA Load(499),68+Tenney+St+Georgetown+MA
+0,42.7178462,-70.9603211,42.8457306,-70.9228679,68+Tenney+St+Georgetown+MA, 49+Macy+St+Amesbury+MA  Load(600)
+1,42.8457306,-70.9228679,42.8437636,-70.8791167, 49+Macy+St+Amesbury+MA  Load(600), 107+Elm+St+Salisbury+MA Load(300)
+2,42.8437636,-70.8791167,42.7178462,-70.9603211, 107+Elm+St+Salisbury+MA Load(300),68+Tenney+St+Georgetown+MA
+3,42.8437636,-70.8791167,42.7178462,-70.9603211, 107+Elm+St+Salisbury+MA Load(300),68+Tenney+St+Georgetown+MA
+0,42.7178462,-70.9603211,42.628566,-70.645259,68+Tenney+St+Georgetown+MA, 38+Great+Republic+Drive+Gloucester+MA Load(410)
+1,42.628566,-70.645259,42.5187288,-70.8938867, 38+Great+Republic+Drive+Gloucester+MA Load(410), 3+Dodge+Street+Salem+MA Load(360)
+2,42.5187288,-70.8938867,42.5223503,-70.9108395, 3+Dodge+Street+Salem+MA Load(360), 50+Grove+St+Salem+MA Load(300)
+3,42.5223503,-70.9108395,42.7178462,-70.9603211, 50+Grove+St+Salem+MA Load(300),68+Tenney+St+Georgetown+MA
+4,42.5223503,-70.9108395,42.7178462,-70.9603211, 50+Grove+St+Salem+MA Load(300),68+Tenney+St+Georgetown+MA
+0,42.7178462,-70.9603211,42.7130673,-70.90772729999999,68+Tenney+St+Georgetown+MA, 300+Newburyport+Turnpike+Rowley+MA Load(525)
+1,42.7130673,-70.90772729999999,42.7007649,-70.91114, 300+Newburyport+Turnpike+Rowley+MA Load(525), 116+Newburyport+Turnpike+Rowley+MA Load(465)
+2,42.7007649,-70.91114,42.4929904,-70.9348267, 116+Newburyport+Turnpike+Rowley+MA Load(465), 462+Highland+Ave+Salem+MA Load(300)
 3,42.4929904,-70.9348267,42.7178462,-70.9603211, 462+Highland+Ave+Salem+MA Load(300),68+Tenney+St+Georgetown+MA
-0,42.7178462,-70.9603211,42.8457306,-70.9228679,68+Tenney+St+Georgetown+MA, 49+Macy+St+Amesbury+MA Load(600)
-1,42.8457306,-70.9228679,42.8457306,-70.9228679, 49+Macy+St+Amesbury+MA Load(600), 49+Macy+St+Amesbury+MA Load(300)
-2,42.8457306,-70.9228679,42.7178462,-70.9603211, 49+Macy+St+Amesbury+MA Load(300),68+Tenney+St+Georgetown+MA
-3,42.8457306,-70.9228679,42.7178462,-70.9603211, 49+Macy+St+Amesbury+MA Load(300),68+Tenney+St+Georgetown+MA
-0,42.7178462,-70.9603211,42.7130673,-70.90772729999999,68+Tenney+St+Georgetown+MA, 300+Newburyport+Turnpike+Rowley+MA Load(345)
-1,42.7130673,-70.90772729999999,42.7007649,-70.91114, 300+Newburyport+Turnpike+Rowley+MA Load(345), 116+Newburyport+Turnpike+Rowley+MA Load(165)
-2,42.7007649,-70.91114,42.7178462,-70.9603211, 116+Newburyport+Turnpike+Rowley+MA Load(165),68+Tenney+St+Georgetown+MA
-3,42.7007649,-70.91114,42.7178462,-70.9603211, 116+Newburyport+Turnpike+Rowley+MA Load(165),68+Tenney+St+Georgetown+MA
+4,42.4929904,-70.9348267,42.7178462,-70.9603211, 462+Highland+Ave+Salem+MA Load(300),68+Tenney+St+Georgetown+MA

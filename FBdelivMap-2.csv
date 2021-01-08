@@ -1,4 +1,7 @@
 ,from_lat,from_lon,to_lat,to_lon,From Address,To Address
-0,42.7178462,-70.9603211,41.6362152,-70.93420499999999,68+Tenney+St+Georgetown+MA, 177+John+Verente+Blvd+New+Bedford+MA Load(600)
-1,41.6362152,-70.93420499999999,42.7178462,-70.9603211, 177+John+Verente+Blvd+New+Bedford+MA Load(600),68+Tenney+St+Georgetown+MA
-2,41.6362152,-70.93420499999999,42.7178462,-70.9603211, 177+John+Verente+Blvd+New+Bedford+MA Load(600),68+Tenney+St+Georgetown+MA
+0,42.7178462,-70.9603211,42.4087279,-72.53947699999999,68+Tenney+St+Georgetown+MA, 169+Meadow+Street+Amherst+MA Load(586)
+1,42.4087279,-72.53947699999999,42.2047079,-72.6045718, 169+Meadow+Street+Amherst+MA Load(586), 380+Dwight+Street+Holyoke+MA Load(550)
+2,42.2047079,-72.6045718,42.0632556,-71.6694838, 380+Dwight+Street+Holyoke+MA Load(550), 640+Douglas+St+Uxbridge+MA  Load(400)
+3,42.0632556,-71.6694838,42.3648033,-71.10212179999999, 640+Douglas+St+Uxbridge+MA  Load(400), 541+Massachusetts+Ave+Cambridge+MA Load(100)
+4,42.3648033,-71.10212179999999,42.7178462,-70.9603211, 541+Massachusetts+Ave+Cambridge+MA Load(100),68+Tenney+St+Georgetown+MA
+5,42.3648033,-71.10212179999999,42.7178462,-70.9603211, 541+Massachusetts+Ave+Cambridge+MA Load(100),68+Tenney+St+Georgetown+MA

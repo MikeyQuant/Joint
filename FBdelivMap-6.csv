@@ -1,5 +1,6 @@
 ,from_lat,from_lon,to_lat,to_lon,From Address,To Address
-0,42.7178462,-70.9603211,42.8457306,-70.9228679,68+Tenney+St+Georgetown+MA, 49+Macy+St+Amesbury+MA Load(600)
-1,42.8457306,-70.9228679,42.4929904,-70.9348267, 49+Macy+St+Amesbury+MA Load(600), 462+Highland+Ave+Salem+MA Load(300)
-2,42.4929904,-70.9348267,42.7178462,-70.9603211, 462+Highland+Ave+Salem+MA Load(300),68+Tenney+St+Georgetown+MA
+0,42.7178462,-70.9603211,42.7130673,-70.90772729999999,68+Tenney+St+Georgetown+MA, 300+Newburyport+Turnpike+Rowley+MA Load(525)
+1,42.7130673,-70.90772729999999,42.7007649,-70.91114, 300+Newburyport+Turnpike+Rowley+MA Load(525), 116+Newburyport+Turnpike+Rowley+MA Load(465)
+2,42.7007649,-70.91114,42.4929904,-70.9348267, 116+Newburyport+Turnpike+Rowley+MA Load(465), 462+Highland+Ave+Salem+MA Load(300)
 3,42.4929904,-70.9348267,42.7178462,-70.9603211, 462+Highland+Ave+Salem+MA Load(300),68+Tenney+St+Georgetown+MA
+4,42.4929904,-70.9348267,42.7178462,-70.9603211, 462+Highland+Ave+Salem+MA Load(300),68+Tenney+St+Georgetown+MA

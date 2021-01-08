@@ -1,7 +1,5 @@
 ,from_lat,from_lon,to_lat,to_lon,From Address,To Address
-0,42.7178462,-70.9603211,42.628566,-70.645259,68+Tenney+St+Georgetown+MA, 38+Great+Republic+Drive+Gloucester+MA Load(589)
-1,42.628566,-70.645259,42.0496674,-70.1886415, 38+Great+Republic+Drive+Gloucester+MA Load(589), 220+Commercial+St+Provincetown+MA Load(539)
-2,42.0496674,-70.1886415,41.7560551,-70.7131995, 220+Commercial+St+Provincetown+MA Load(539), 112+Main+Street+Wareham+Massachusetts Load(139)
-3,41.7560551,-70.7131995,41.91832400000001,-71.324818, 112+Main+Street+Wareham+Massachusetts Load(139), 34+Extension+Street+Attleboro+MA Load(100)
-4,41.91832400000001,-71.324818,42.7178462,-70.9603211, 34+Extension+Street+Attleboro+MA Load(100),68+Tenney+St+Georgetown+MA
-5,41.91832400000001,-71.324818,42.7178462,-70.9603211, 34+Extension+Street+Attleboro+MA Load(100),68+Tenney+St+Georgetown+MA
+0,42.7178462,-70.9603211,42.3479292,-71.5132418,68+Tenney+St+Georgetown+MA, 416+Boston+Post+Road+Marlborough+MA Load(525)
+1,42.3479292,-71.5132418,42.0870027,-71.437172, 416+Boston+Post+Road+Marlborough+MA Load(525), 5+Forge+Parkway+Franklin+MA Load(300)
+2,42.0870027,-71.437172,42.7178462,-70.9603211, 5+Forge+Parkway+Franklin+MA Load(300),68+Tenney+St+Georgetown+MA
+3,42.0870027,-71.437172,42.7178462,-70.9603211, 5+Forge+Parkway+Franklin+MA Load(300),68+Tenney+St+Georgetown+MA
