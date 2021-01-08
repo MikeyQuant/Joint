@@ -1,36 +1,8 @@
-from __future__ import print_function
-from sodapy import Socrata
-from ortools.constraint_solver import routing_enums_pb2
-from ortools.constraint_solver import pywrapcp
-from selenium import webdriver
-from bs4 import BeautifulSoup as bs
-import time
-import re
-from matlab import *
-from urllib.request import urlopen
-import numpy as np
-import matplotlib.pyplot as plt
-import matplotlib
-import json
-from pandas.io.json import json_normalize
-import sys
-import pandas as pd
-from time import sleep
-import pyautogui
-from random import randrange
-from selenium.webdriver.common.keys import Keys
-from datetime import datetime
-import pyautogui
-from random import randrange
-import os
-import ezsheets
-from datetime import datetime
-from googlemaps import Client as GoogleMaps
+
 import pandas as pd
 import streamlit as st
 import pydeck as pdk
 mbapi="sk.eyJ1IjoibWlrZXlxdWFudCIsImEiOiJja2lqN2pvMGgwZHdyMnZxcmF2cHF4ZGR0In0.pBJ7Tv-oTyWSAd_V1SOpQw"
-import os
 def second_batch():
     '''df=pd.read_csv("SecondBatch.csv")
     ref=pd.read_csv("LeviaCustomers.csv")
