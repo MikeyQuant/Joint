@@ -532,6 +532,6 @@ def sl():
                 print(data)
                 st.pydeck_chart(arc_layer_map)
         except:
-            pass
+            break
 #second_batch()
 sl()
