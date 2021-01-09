@@ -1,31 +1,4 @@
-from __future__ import print_function
-from sodapy import Socrata
-from ortools.constraint_solver import routing_enums_pb2
-from ortools.constraint_solver import pywrapcp
-from selenium import webdriver
-from bs4 import BeautifulSoup as bs
-import time
-import re
-from matlab import *
-from urllib.request import urlopen
-import numpy as np
-import matplotlib.pyplot as plt
-import matplotlib
-import json
-from pandas.io.json import json_normalize
-import sys
-import pandas as pd
-from time import sleep
-import pyautogui
-from random import randrange
-from selenium.webdriver.common.keys import Keys
-from datetime import datetime
-import pyautogui
-from random import randrange
-import os
-import ezsheets
-from datetime import datetime
-from googlemaps import Client as GoogleMaps
+
 import pandas as pd
 import streamlit as st
 import pydeck as pdk
@@ -49,9 +22,7 @@ def second_batch():
         api="AIzaSyA9lJOx8mjlgRdgc-OOzXasd58Pa4B6neo"
 
         # importing googlemaps module
-        import googlemaps
-        import pandas as pd
-        def create_data_model(number_of_trucks):
+\        def create_data_model(number_of_trucks):
             #df=compile_delivery_file()
             '''df=pd.read_csv("FirstBatch2.csv")
             max_load=600
@@ -518,32 +489,6 @@ def second_batch():
         print(data)
         st.pydeck_chart(arc_layer_map)
     generate_delivery_map()
-def generate_sales_map_df():
-    df=pd.read_csv("FBfinal3.csv")
-    ref=pd.read_csv("FBmatrix2.csv")
-    def generate_cords(df):
-        import googlemaps
-        api="AIzaSyA9lJOx8mjlgRdgc-OOzXasd58Pa4B6neo"
-        gmaps = googlemaps.Client(key=api)
-        df['lon'] = ""
-        df['lat'] = ""
-        for x in range(len(df)):
-            try:
-                 #to add delay in case of large DFs
-                geocode_result = gmaps.geocode(df['Address'][x])
-
-                print( geocode_result[0]['geometry']['location'] ['lat'],type( geocode_result[0]['geometry']['location'] ['lat']))
-                df['lat'][x] =float( geocode_result[0]['geometry']['location'] ['lat'])
-                df['lon'][x] = float(geocode_result[0]['geometry']['location']['lng'])
-            except IndexError:
-                print("Address was wrong...")
-            except Exception as e:
-                print("Unexpected error occurred.", e )
-        return df
-    #df=generate_cords(df)
-
-   # df["Revenue"]=df["Cases"]*84
-   # df.to_csv("LeviaDeliveriesFB2.csv")
     df=pd.read_csv("LeviaDeliveriesFB2.csv")
 
     view=pdk.ViewState(latitude=df["lat"].mean(),longitude=df["lon"].mean(),pitch=20,zoom=9)
