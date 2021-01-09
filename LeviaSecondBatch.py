@@ -1,8 +1,36 @@
-
+from __future__ import print_function
+from sodapy import Socrata
+from ortools.constraint_solver import routing_enums_pb2
+from ortools.constraint_solver import pywrapcp
+from selenium import webdriver
+from bs4 import BeautifulSoup as bs
+import time
+import re
+from matlab import *
+from urllib.request import urlopen
+import numpy as np
+import matplotlib.pyplot as plt
+import matplotlib
+import json
+from pandas.io.json import json_normalize
+import sys
+import pandas as pd
+from time import sleep
+import pyautogui
+from random import randrange
+from selenium.webdriver.common.keys import Keys
+from datetime import datetime
+import pyautogui
+from random import randrange
+import os
+import ezsheets
+from datetime import datetime
+from googlemaps import Client as GoogleMaps
 import pandas as pd
 import streamlit as st
 import pydeck as pdk
 mbapi="sk.eyJ1IjoibWlrZXlxdWFudCIsImEiOiJja2lqN2pvMGgwZHdyMnZxcmF2cHF4ZGR0In0.pBJ7Tv-oTyWSAd_V1SOpQw"
+import os
 def second_batch():
     '''df=pd.read_csv("SecondBatch.csv")
     ref=pd.read_csv("LeviaCustomers.csv")
@@ -490,6 +518,41 @@ def second_batch():
         print(data)
         st.pydeck_chart(arc_layer_map)
     generate_delivery_map()
+def generate_sales_map_df():
+    df=pd.read_csv("FBfinal3.csv")
+    ref=pd.read_csv("FBmatrix2.csv")
+    def generate_cords(df):
+        import googlemaps
+        api="AIzaSyA9lJOx8mjlgRdgc-OOzXasd58Pa4B6neo"
+        gmaps = googlemaps.Client(key=api)
+        df['lon'] = ""
+        df['lat'] = ""
+        for x in range(len(df)):
+            try:
+                 #to add delay in case of large DFs
+                geocode_result = gmaps.geocode(df['Address'][x])
+
+                print( geocode_result[0]['geometry']['location'] ['lat'],type( geocode_result[0]['geometry']['location'] ['lat']))
+                df['lat'][x] =float( geocode_result[0]['geometry']['location'] ['lat'])
+                df['lon'][x] = float(geocode_result[0]['geometry']['location']['lng'])
+            except IndexError:
+                print("Address was wrong...")
+            except Exception as e:
+                print("Unexpected error occurred.", e )
+        return df
+    #df=generate_cords(df)
+
+   # df["Revenue"]=df["Cases"]*84
+   # df.to_csv("LeviaDeliveriesFB2.csv")
+    df=pd.read_csv("LeviaDeliveriesFB2.csv")
+
+    view=pdk.ViewState(latitude=df["lat"].mean(),longitude=df["lon"].mean(),pitch=20,zoom=9)
+    column_layer = pdk.Layer("ColumnLayer",data=df,get_position=["lon", "lat"],get_elevation="Cases",elevation_scale=25,radius=500,pickable=True,auto_highlight=True,)
+
+    tooltip = {"html": "<b>{Dispensary}</b>  Rev: <b>{Cases}</b> Cases:{Cases} ","style": {"background": "grey", "color": "white", "font-family": '"Helvetica Neue", Arial', "z-index": "10000"}}
+
+    arc_layer_map=pdk.Deck(map_style='mapbox://styles/mapbox/light-v10',layers=[column_layer],initial_view_state=view,mapbox_key=mbapi,tooltip=tooltip)
+    return df
 def sl():
     for i,b in enumerate(["F"]):
         if i==0:
@@ -522,9 +585,11 @@ def sl():
                 view=pdk.ViewState(latitude=df["from_lat"].mean(),longitude=df["from_lon"].mean(),pitch=20,zoom=9)
 
                 arc_layer=pdk.Layer("ArcLayer",data=df,get_source_position=["from_lon","from_lat"],get_target_position=["to_lon","to_lat"],get_width=5,get_tilt=15,get_source_color=[255,165,0,80],get_target_color=[128,0,128,80])
-                column_layer = pdk.Layer("ColumnLayer",data=df,get_position=["from_lon", "from_lat"],get_elevation="Cases",elevation_scale=2,radius=250,pickable=True,auto_highlight=True,)
+                #dfc=generate_sales_map_df()
+                dfc=pd.read_csv("LeviaDeliveriesFB2.csv")
+                column_layer = pdk.Layer("ColumnLayer",data=dfc,get_position=["lon", "lat"],get_elevation="Cases",elevation_scale=50,radius=250,pickable=True,auto_highlight=True,)
 
-                tooltip = {"html": "<b>{Name}</b>  Rev: <b>${Rev}</b> Cases:{Cases} Flavors: Celebrate-{Cel} Dream-{Dre} Achieve:{Ach}","style": {"background": "grey", "color": "white", "font-family": '"Helvetica Neue", Arial', "z-index": "10000"}}
+                tooltip = {"html": "<b>{Dispensary}</b>  Rev: <b>${Revenue}</b> Cases:{Cases} ","style": {"background": "grey", "color": "white", "font-family": '"Helvetica Neue", Arial', "z-index": "10000"}}
 
                 arc_layer_map=pdk.Deck(map_style='mapbox://styles/mapbox/light-v10',layers=[arc_layer,column_layer],initial_view_state=view,mapbox_key=mbapi,tooltip=tooltip)
                 arc_layer_map.to_html("First_Batch_Sales_Map.html")
@@ -532,6 +597,6 @@ def sl():
                 print(data)
                 st.pydeck_chart(arc_layer_map)
         except:
-            break
+            pass
 #second_batch()
 sl()
