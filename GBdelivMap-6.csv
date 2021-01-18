@@ -1,5 +1,0 @@
-,from_lat,from_lon,to_lat,to_lon,From Address,To Address
-0,42.7178462,-70.9603211,42.0868575,-71.4372334,68+Tenney+St+Georgetown+MA, 5+Forge+Parkway+Franklin+MA Load(600)
-1,42.0868575,-71.4372334,42.0632556,-71.6694838, 5+Forge+Parkway+Franklin+MA Load(600), 640+Douglas+St+Uxbridge+MA  Load(300)
-2,42.0632556,-71.6694838,42.7178462,-70.9603211, 640+Douglas+St+Uxbridge+MA  Load(300),68+Tenney+St+Georgetown+MA
-3,42.0632556,-71.6694838,42.7178462,-70.9603211, 640+Douglas+St+Uxbridge+MA  Load(300),68+Tenney+St+Georgetown+MA
