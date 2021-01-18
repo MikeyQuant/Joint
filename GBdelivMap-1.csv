@@ -1,5 +1,5 @@
 ,from_lat,from_lon,to_lat,to_lon,From Address,To Address
-0,42.7178462,-70.9603211,42.3648033,-71.10212179999999,68+Tenney+St+Georgetown+MA, 541+Massachusetts+Ave+Cambridge+MA Load(599)
-1,42.3648033,-71.10212179999999,41.6362152,-70.93420499999999, 541+Massachusetts+Ave+Cambridge+MA Load(599), 177+John+Verente+Blvd+New+Bedford+MA Load(499)
-2,41.6362152,-70.93420499999999,42.7178462,-70.9603211, 177+John+Verente+Blvd+New+Bedford+MA Load(499),68+Tenney+St+Georgetown+MA
-3,41.6362152,-70.93420499999999,42.7178462,-70.9603211, 177+John+Verente+Blvd+New+Bedford+MA Load(499),68+Tenney+St+Georgetown+MA
+0,42.7178462,-70.9603211,42.8457306,-70.9228679,68+Tenney+St+Georgetown+MA, 49+Macy+St+Amesbury+MA Load(600)
+1,42.8457306,-70.9228679,42.8437636,-70.8791167, 49+Macy+St+Amesbury+MA Load(600), 107+Elm+St+Salisbury+MA Load(300)
+2,42.8437636,-70.8791167,42.7178462,-70.9603211, 107+Elm+St+Salisbury+MA Load(300),68+Tenney+St+Georgetown+MA
+3,42.8437636,-70.8791167,42.7178462,-70.9603211, 107+Elm+St+Salisbury+MA Load(300),68+Tenney+St+Georgetown+MA

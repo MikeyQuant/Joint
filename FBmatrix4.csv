@@ -1,0 +1,362 @@
+,Distance,Duration,Ad1,Ad2
+0,1 m,1 min,68+Tenney+St+Georgetown+MA,68+Tenney+St+Georgetown+MA
+1,115 km,1 hour 10 mins,68+Tenney+St+Georgetown+MA,266+North+Main+Street+Millbury+MA
+2,99.9 km,1 hour 9 mins,68+Tenney+St+Georgetown+MA,65+Pullman+Street+Worcester+MA
+3,94.8 km,1 hour 9 mins,68+Tenney+St+Georgetown+MA,65+West+Boylston+Street+W+Boylston+MA
+4,81.8 km,1 hour 2 mins,68+Tenney+St+Georgetown+MA,416+Boston+Post+Road+Marlborough+MA
+5,7.8 km,8 mins,68+Tenney+St+Georgetown+MA,116+Newburyport+Turnpike+Rowley+MA
+6,57.2 km,39 mins,68+Tenney+St+Georgetown+MA,38+Great+Republic+Drive+Gloucester+MA
+7,7.5 km,9 mins,68+Tenney+St+Georgetown+MA,300+Newburyport+Turnpike+Rowley+MA
+8,31.0 km,25 mins,68+Tenney+St+Georgetown+MA,50+Grove+St+Salem+MA
+9,21.2 km,16 mins,68+Tenney+St+Georgetown+MA,49+Macy+St+Amesbury+MA
+10,20.9 km,15 mins,68+Tenney+St+Georgetown+MA,107+Elm+St+Salisbury+MA
+11,32.7 km,29 mins,68+Tenney+St+Georgetown+MA,3+Dodge+Street+Salem+MA
+12,117 km,1 hour 10 mins,68+Tenney+St+Georgetown+MA,5+Forge+Parkway+Franklin+MA
+13,92.5 km,1 hour 5 mins,68+Tenney+St+Georgetown+MA,640+Lincoln+Street+Worcester+MA
+14,50.8 km,42 mins,68+Tenney+St+Georgetown+MA,541+Massachusetts+Ave+Cambridge+MA
+15,133 km,1 hour 20 mins,68+Tenney+St+Georgetown+MA,640+Douglas+St+Uxbridge+MA
+16,32.6 km,29 mins,68+Tenney+St+Georgetown+MA,462+Highland+Ave+Salem+MA
+17,59.7 km,50 mins,68+Tenney+St+Georgetown+MA,38+Littleton+Rd+Ayer+MA
+18,61.6 km,51 mins,68+Tenney+St+Georgetown+MA,31+Central+Ave+Ayer+MA
+19,117 km,1 hour 11 mins,266+North+Main+Street+Millbury+MA,68+Tenney+St+Georgetown+MA
+20,1 m,1 min,266+North+Main+Street+Millbury+MA,266+North+Main+Street+Millbury+MA
+21,16.2 km,13 mins,266+North+Main+Street+Millbury+MA,65+Pullman+Street+Worcester+MA
+22,20.3 km,17 mins,266+North+Main+Street+Millbury+MA,65+West+Boylston+Street+W+Boylston+MA
+23,39.2 km,32 mins,266+North+Main+Street+Millbury+MA,416+Boston+Post+Road+Marlborough+MA
+24,114 km,1 hour 12 mins,266+North+Main+Street+Millbury+MA,116+Newburyport+Turnpike+Rowley+MA
+25,125 km,1 hour 19 mins,266+North+Main+Street+Millbury+MA,38+Great+Republic+Drive+Gloucester+MA
+26,120 km,1 hour 13 mins,266+North+Main+Street+Millbury+MA,300+Newburyport+Turnpike+Rowley+MA
+27,99.2 km,1 hour 4 mins,266+North+Main+Street+Millbury+MA,50+Grove+St+Salem+MA
+28,119 km,1 hour 10 mins,266+North+Main+Street+Millbury+MA,49+Macy+St+Amesbury+MA
+29,122 km,1 hour 12 mins,266+North+Main+Street+Millbury+MA,107+Elm+St+Salisbury+MA
+30,101 km,1 hour 9 mins,266+North+Main+Street+Millbury+MA,3+Dodge+Street+Salem+MA
+31,48.4 km,31 mins,266+North+Main+Street+Millbury+MA,5+Forge+Parkway+Franklin+MA
+32,15.4 km,13 mins,266+North+Main+Street+Millbury+MA,640+Lincoln+Street+Worcester+MA
+33,65.0 km,44 mins,266+North+Main+Street+Millbury+MA,541+Massachusetts+Ave+Cambridge+MA
+34,20.1 km,15 mins,266+North+Main+Street+Millbury+MA,640+Douglas+St+Uxbridge+MA
+35,101 km,1 hour 8 mins,266+North+Main+Street+Millbury+MA,462+Highland+Ave+Salem+MA
+36,57.7 km,39 mins,266+North+Main+Street+Millbury+MA,38+Littleton+Rd+Ayer+MA
+37,58.6 km,39 mins,266+North+Main+Street+Millbury+MA,31+Central+Ave+Ayer+MA
+38,100 km,1 hour 10 mins,65+Pullman+Street+Worcester+MA,68+Tenney+St+Georgetown+MA
+39,17.2 km,14 mins,65+Pullman+Street+Worcester+MA,266+North+Main+Street+Millbury+MA
+40,1 m,1 min,65+Pullman+Street+Worcester+MA,65+Pullman+Street+Worcester+MA
+41,4.7 km,8 mins,65+Pullman+Street+Worcester+MA,65+West+Boylston+Street+W+Boylston+MA
+42,34.3 km,29 mins,65+Pullman+Street+Worcester+MA,416+Boston+Post+Road+Marlborough+MA
+43,106 km,1 hour 15 mins,65+Pullman+Street+Worcester+MA,116+Newburyport+Turnpike+Rowley+MA
+44,138 km,1 hour 26 mins,65+Pullman+Street+Worcester+MA,38+Great+Republic+Drive+Gloucester+MA
+45,106 km,1 hour 15 mins,65+Pullman+Street+Worcester+MA,300+Newburyport+Turnpike+Rowley+MA
+46,112 km,1 hour 11 mins,65+Pullman+Street+Worcester+MA,50+Grove+St+Salem+MA
+47,113 km,1 hour 7 mins,65+Pullman+Street+Worcester+MA,49+Macy+St+Amesbury+MA
+48,115 km,1 hour 8 mins,65+Pullman+Street+Worcester+MA,107+Elm+St+Salisbury+MA
+49,113 km,1 hour 16 mins,65+Pullman+Street+Worcester+MA,3+Dodge+Street+Salem+MA
+50,60.8 km,38 mins,65+Pullman+Street+Worcester+MA,5+Forge+Parkway+Franklin+MA
+51,4.6 km,7 mins,65+Pullman+Street+Worcester+MA,640+Lincoln+Street+Worcester+MA
+52,78.1 km,51 mins,65+Pullman+Street+Worcester+MA,541+Massachusetts+Ave+Cambridge+MA
+53,34.8 km,25 mins,65+Pullman+Street+Worcester+MA,640+Douglas+St+Uxbridge+MA
+54,114 km,1 hour 15 mins,65+Pullman+Street+Worcester+MA,462+Highland+Ave+Salem+MA
+55,43.1 km,30 mins,65+Pullman+Street+Worcester+MA,38+Littleton+Rd+Ayer+MA
+56,44.0 km,30 mins,65+Pullman+Street+Worcester+MA,31+Central+Ave+Ayer+MA
+57,95.0 km,1 hour 9 mins,65+West+Boylston+Street+W+Boylston+MA,68+Tenney+St+Georgetown+MA
+58,21.4 km,18 mins,65+West+Boylston+Street+W+Boylston+MA,266+North+Main+Street+Millbury+MA
+59,4.6 km,8 mins,65+West+Boylston+Street+W+Boylston+MA,65+Pullman+Street+Worcester+MA
+60,1 m,1 min,65+West+Boylston+Street+W+Boylston+MA,65+West+Boylston+Street+W+Boylston+MA
+61,29.8 km,30 mins,65+West+Boylston+Street+W+Boylston+MA,416+Boston+Post+Road+Marlborough+MA
+62,100 km,1 hour 15 mins,65+West+Boylston+Street+W+Boylston+MA,116+Newburyport+Turnpike+Rowley+MA
+63,133 km,1 hour 26 mins,65+West+Boylston+Street+W+Boylston+MA,38+Great+Republic+Drive+Gloucester+MA
+64,101 km,1 hour 15 mins,65+West+Boylston+Street+W+Boylston+MA,300+Newburyport+Turnpike+Rowley+MA
+65,106 km,1 hour 11 mins,65+West+Boylston+Street+W+Boylston+MA,50+Grove+St+Salem+MA
+66,107 km,1 hour 7 mins,65+West+Boylston+Street+W+Boylston+MA,49+Macy+St+Amesbury+MA
+67,110 km,1 hour 8 mins,65+West+Boylston+Street+W+Boylston+MA,107+Elm+St+Salisbury+MA
+68,108 km,1 hour 16 mins,65+West+Boylston+Street+W+Boylston+MA,3+Dodge+Street+Salem+MA
+69,56.3 km,39 mins,65+West+Boylston+Street+W+Boylston+MA,5+Forge+Parkway+Franklin+MA
+70,7.9 km,11 mins,65+West+Boylston+Street+W+Boylston+MA,640+Lincoln+Street+Worcester+MA
+71,73.7 km,52 mins,65+West+Boylston+Street+W+Boylston+MA,541+Massachusetts+Ave+Cambridge+MA
+72,39.1 km,28 mins,65+West+Boylston+Street+W+Boylston+MA,640+Douglas+St+Uxbridge+MA
+73,108 km,1 hour 15 mins,65+West+Boylston+Street+W+Boylston+MA,462+Highland+Ave+Salem+MA
+74,37.7 km,30 mins,65+West+Boylston+Street+W+Boylston+MA,38+Littleton+Rd+Ayer+MA
+75,38.6 km,30 mins,65+West+Boylston+Street+W+Boylston+MA,31+Central+Ave+Ayer+MA
+76,83.7 km,1 hour 5 mins,416+Boston+Post+Road+Marlborough+MA,68+Tenney+St+Georgetown+MA
+77,41.5 km,35 mins,416+Boston+Post+Road+Marlborough+MA,266+North+Main+Street+Millbury+MA
+78,34.0 km,30 mins,416+Boston+Post+Road+Marlborough+MA,65+Pullman+Street+Worcester+MA
+79,29.0 km,30 mins,416+Boston+Post+Road+Marlborough+MA,65+West+Boylston+Street+W+Boylston+MA
+80,1 m,1 min,416+Boston+Post+Road+Marlborough+MA,416+Boston+Post+Road+Marlborough+MA
+81,79.9 km,1 hour 6 mins,416+Boston+Post+Road+Marlborough+MA,116+Newburyport+Turnpike+Rowley+MA
+82,91.8 km,1 hour 13 mins,416+Boston+Post+Road+Marlborough+MA,38+Great+Republic+Drive+Gloucester+MA
+83,86.0 km,1 hour 7 mins,416+Boston+Post+Road+Marlborough+MA,300+Newburyport+Turnpike+Rowley+MA
+84,65.5 km,58 mins,416+Boston+Post+Road+Marlborough+MA,50+Grove+St+Salem+MA
+85,96.6 km,1 hour 5 mins,416+Boston+Post+Road+Marlborough+MA,49+Macy+St+Amesbury+MA
+86,99.2 km,1 hour 6 mins,416+Boston+Post+Road+Marlborough+MA,107+Elm+St+Salisbury+MA
+87,67.2 km,1 hour 3 mins,416+Boston+Post+Road+Marlborough+MA,3+Dodge+Street+Salem+MA
+88,40.6 km,34 mins,416+Boston+Post+Road+Marlborough+MA,5+Forge+Parkway+Franklin+MA
+89,26.7 km,27 mins,416+Boston+Post+Road+Marlborough+MA,640+Lincoln+Street+Worcester+MA
+90,44.3 km,41 mins,416+Boston+Post+Road+Marlborough+MA,541+Massachusetts+Ave+Cambridge+MA
+91,59.1 km,45 mins,416+Boston+Post+Road+Marlborough+MA,640+Douglas+St+Uxbridge+MA
+92,67.6 km,1 hour 2 mins,416+Boston+Post+Road+Marlborough+MA,462+Highland+Ave+Salem+MA
+93,39.2 km,36 mins,416+Boston+Post+Road+Marlborough+MA,38+Littleton+Rd+Ayer+MA
+94,41.4 km,36 mins,416+Boston+Post+Road+Marlborough+MA,31+Central+Ave+Ayer+MA
+95,7.8 km,8 mins,116+Newburyport+Turnpike+Rowley+MA,68+Tenney+St+Georgetown+MA
+96,113 km,1 hour 12 mins,116+Newburyport+Turnpike+Rowley+MA,266+North+Main+Street+Millbury+MA
+97,105 km,1 hour 14 mins,116+Newburyport+Turnpike+Rowley+MA,65+Pullman+Street+Worcester+MA
+98,100 km,1 hour 14 mins,116+Newburyport+Turnpike+Rowley+MA,65+West+Boylston+Street+W+Boylston+MA
+99,79.1 km,1 hour 4 mins,116+Newburyport+Turnpike+Rowley+MA,416+Boston+Post+Road+Marlborough+MA
+100,1 m,1 min,116+Newburyport+Turnpike+Rowley+MA,116+Newburyport+Turnpike+Rowley+MA
+101,29.8 km,33 mins,116+Newburyport+Turnpike+Rowley+MA,38+Great+Republic+Drive+Gloucester+MA
+102,1.4 km,2 mins,116+Newburyport+Turnpike+Rowley+MA,300+Newburyport+Turnpike+Rowley+MA
+103,28.3 km,27 mins,116+Newburyport+Turnpike+Rowley+MA,50+Grove+St+Salem+MA
+104,23.6 km,18 mins,116+Newburyport+Turnpike+Rowley+MA,49+Macy+St+Amesbury+MA
+105,18.2 km,18 mins,116+Newburyport+Turnpike+Rowley+MA,107+Elm+St+Salisbury+MA
+106,23.1 km,33 mins,116+Newburyport+Turnpike+Rowley+MA,3+Dodge+Street+Salem+MA
+107,114 km,1 hour 12 mins,116+Newburyport+Turnpike+Rowley+MA,5+Forge+Parkway+Franklin+MA
+108,97.9 km,1 hour 11 mins,116+Newburyport+Turnpike+Rowley+MA,640+Lincoln+Street+Worcester+MA
+109,47.8 km,45 mins,116+Newburyport+Turnpike+Rowley+MA,541+Massachusetts+Ave+Cambridge+MA
+110,130 km,1 hour 22 mins,116+Newburyport+Turnpike+Rowley+MA,640+Douglas+St+Uxbridge+MA
+111,29.9 km,31 mins,116+Newburyport+Turnpike+Rowley+MA,462+Highland+Ave+Salem+MA
+112,65.2 km,55 mins,116+Newburyport+Turnpike+Rowley+MA,38+Littleton+Rd+Ayer+MA
+113,67.0 km,57 mins,116+Newburyport+Turnpike+Rowley+MA,31+Central+Ave+Ayer+MA
+114,47.9 km,38 mins,38+Great+Republic+Drive+Gloucester+MA,68+Tenney+St+Georgetown+MA
+115,125 km,1 hour 20 mins,38+Great+Republic+Drive+Gloucester+MA,266+North+Main+Street+Millbury+MA
+116,137 km,1 hour 25 mins,38+Great+Republic+Drive+Gloucester+MA,65+Pullman+Street+Worcester+MA
+117,131 km,1 hour 25 mins,38+Great+Republic+Drive+Gloucester+MA,65+West+Boylston+Street+W+Boylston+MA
+118,91.1 km,1 hour 12 mins,38+Great+Republic+Drive+Gloucester+MA,416+Boston+Post+Road+Marlborough+MA
+119,29.2 km,33 mins,38+Great+Republic+Drive+Gloucester+MA,116+Newburyport+Turnpike+Rowley+MA
+120,1 m,1 min,38+Great+Republic+Drive+Gloucester+MA,38+Great+Republic+Drive+Gloucester+MA
+121,29.5 km,34 mins,38+Great+Republic+Drive+Gloucester+MA,300+Newburyport+Turnpike+Rowley+MA
+122,33.0 km,29 mins,38+Great+Republic+Drive+Gloucester+MA,50+Grove+St+Salem+MA
+123,63.1 km,47 mins,38+Great+Republic+Drive+Gloucester+MA,49+Macy+St+Amesbury+MA
+124,62.8 km,46 mins,38+Great+Republic+Drive+Gloucester+MA,107+Elm+St+Salisbury+MA
+125,28.5 km,33 mins,38+Great+Republic+Drive+Gloucester+MA,3+Dodge+Street+Salem+MA
+126,126 km,1 hour 20 mins,38+Great+Republic+Drive+Gloucester+MA,5+Forge+Parkway+Franklin+MA
+127,129 km,1 hour 21 mins,38+Great+Republic+Drive+Gloucester+MA,640+Lincoln+Street+Worcester+MA
+128,62.4 km,52 mins,38+Great+Republic+Drive+Gloucester+MA,541+Massachusetts+Ave+Cambridge+MA
+129,142 km,1 hour 30 mins,38+Great+Republic+Drive+Gloucester+MA,640+Douglas+St+Uxbridge+MA
+130,36.0 km,34 mins,38+Great+Republic+Drive+Gloucester+MA,462+Highland+Ave+Salem+MA
+131,96.4 km,1 hour 6 mins,38+Great+Republic+Drive+Gloucester+MA,38+Littleton+Rd+Ayer+MA
+132,98.2 km,1 hour 7 mins,38+Great+Republic+Drive+Gloucester+MA,31+Central+Ave+Ayer+MA
+133,8.2 km,9 mins,300+Newburyport+Turnpike+Rowley+MA,68+Tenney+St+Georgetown+MA
+134,119 km,1 hour 14 mins,300+Newburyport+Turnpike+Rowley+MA,266+North+Main+Street+Millbury+MA
+135,106 km,1 hour 15 mins,300+Newburyport+Turnpike+Rowley+MA,65+Pullman+Street+Worcester+MA
+136,101 km,1 hour 15 mins,300+Newburyport+Turnpike+Rowley+MA,65+West+Boylston+Street+W+Boylston+MA
+137,85.6 km,1 hour 6 mins,300+Newburyport+Turnpike+Rowley+MA,416+Boston+Post+Road+Marlborough+MA
+138,1.4 km,2 mins,300+Newburyport+Turnpike+Rowley+MA,116+Newburyport+Turnpike+Rowley+MA
+139,30.2 km,34 mins,300+Newburyport+Turnpike+Rowley+MA,38+Great+Republic+Drive+Gloucester+MA
+140,1 m,1 min,300+Newburyport+Turnpike+Rowley+MA,300+Newburyport+Turnpike+Rowley+MA
+141,34.9 km,28 mins,300+Newburyport+Turnpike+Rowley+MA,50+Grove+St+Salem+MA
+142,21.3 km,18 mins,300+Newburyport+Turnpike+Rowley+MA,49+Macy+St+Amesbury+MA
+143,16.8 km,16 mins,300+Newburyport+Turnpike+Rowley+MA,107+Elm+St+Salisbury+MA
+144,24.5 km,35 mins,300+Newburyport+Turnpike+Rowley+MA,3+Dodge+Street+Salem+MA
+145,121 km,1 hour 14 mins,300+Newburyport+Turnpike+Rowley+MA,5+Forge+Parkway+Franklin+MA
+146,98.3 km,1 hour 11 mins,300+Newburyport+Turnpike+Rowley+MA,640+Lincoln+Street+Worcester+MA
+147,54.7 km,45 mins,300+Newburyport+Turnpike+Rowley+MA,541+Massachusetts+Ave+Cambridge+MA
+148,137 km,1 hour 24 mins,300+Newburyport+Turnpike+Rowley+MA,640+Douglas+St+Uxbridge+MA
+149,36.5 km,33 mins,300+Newburyport+Turnpike+Rowley+MA,462+Highland+Ave+Salem+MA
+150,65.5 km,56 mins,300+Newburyport+Turnpike+Rowley+MA,38+Littleton+Rd+Ayer+MA
+151,67.4 km,57 mins,300+Newburyport+Turnpike+Rowley+MA,31+Central+Ave+Ayer+MA
+152,31.0 km,26 mins,50+Grove+St+Salem+MA,68+Tenney+St+Georgetown+MA
+153,98.6 km,1 hour 6 mins,50+Grove+St+Salem+MA,266+North+Main+Street+Millbury+MA
+154,110 km,1 hour 11 mins,50+Grove+St+Salem+MA,65+Pullman+Street+Worcester+MA
+155,105 km,1 hour 11 mins,50+Grove+St+Salem+MA,65+West+Boylston+Street+W+Boylston+MA
+156,64.8 km,58 mins,50+Grove+St+Salem+MA,416+Boston+Post+Road+Marlborough+MA
+157,27.2 km,27 mins,50+Grove+St+Salem+MA,116+Newburyport+Turnpike+Rowley+MA
+158,32.8 km,29 mins,50+Grove+St+Salem+MA,38+Great+Republic+Drive+Gloucester+MA
+159,33.4 km,28 mins,50+Grove+St+Salem+MA,300+Newburyport+Turnpike+Rowley+MA
+160,1 m,1 min,50+Grove+St+Salem+MA,50+Grove+St+Salem+MA
+161,46.2 km,35 mins,50+Grove+St+Salem+MA,49+Macy+St+Amesbury+MA
+162,45.9 km,34 mins,50+Grove+St+Salem+MA,107+Elm+St+Salisbury+MA
+163,2.1 km,8 mins,50+Grove+St+Salem+MA,3+Dodge+Street+Salem+MA
+164,100 km,1 hour 6 mins,50+Grove+St+Salem+MA,5+Forge+Parkway+Franklin+MA
+165,103 km,1 hour 8 mins,50+Grove+St+Salem+MA,640+Lincoln+Street+Worcester+MA
+166,36.2 km,38 mins,50+Grove+St+Salem+MA,541+Massachusetts+Ave+Cambridge+MA
+167,116 km,1 hour 16 mins,50+Grove+St+Salem+MA,640+Douglas+St+Uxbridge+MA
+168,4.5 km,9 mins,50+Grove+St+Salem+MA,462+Highland+Ave+Salem+MA
+169,70.1 km,52 mins,50+Grove+St+Salem+MA,38+Littleton+Rd+Ayer+MA
+170,72.0 km,54 mins,50+Grove+St+Salem+MA,31+Central+Ave+Ayer+MA
+171,20.0 km,15 mins,49+Macy+St+Amesbury+MA,68+Tenney+St+Georgetown+MA
+172,119 km,1 hour 11 mins,49+Macy+St+Amesbury+MA,266+North+Main+Street+Millbury+MA
+173,111 km,1 hour 6 mins,49+Macy+St+Amesbury+MA,65+Pullman+Street+Worcester+MA
+174,106 km,1 hour 6 mins,49+Macy+St+Amesbury+MA,65+West+Boylston+Street+W+Boylston+MA
+175,96.6 km,1 hour 4 mins,49+Macy+St+Amesbury+MA,416+Boston+Post+Road+Marlborough+MA
+176,23.2 km,19 mins,49+Macy+St+Amesbury+MA,116+Newburyport+Turnpike+Rowley+MA
+177,72.6 km,48 mins,49+Macy+St+Amesbury+MA,38+Great+Republic+Drive+Gloucester+MA
+178,20.9 km,19 mins,49+Macy+St+Amesbury+MA,300+Newburyport+Turnpike+Rowley+MA
+179,46.4 km,34 mins,49+Macy+St+Amesbury+MA,50+Grove+St+Salem+MA
+180,1 m,1 min,49+Macy+St+Amesbury+MA,49+Macy+St+Amesbury+MA
+181,3.7 km,6 mins,49+Macy+St+Amesbury+MA,107+Elm+St+Salisbury+MA
+182,48.1 km,39 mins,49+Macy+St+Amesbury+MA,3+Dodge+Street+Salem+MA
+183,123 km,1 hour 13 mins,49+Macy+St+Amesbury+MA,5+Forge+Parkway+Franklin+MA
+184,104 km,1 hour 3 mins,49+Macy+St+Amesbury+MA,640+Lincoln+Street+Worcester+MA
+185,66.2 km,51 mins,49+Macy+St+Amesbury+MA,541+Massachusetts+Ave+Cambridge+MA
+186,136 km,1 hour 22 mins,49+Macy+St+Amesbury+MA,640+Douglas+St+Uxbridge+MA
+187,48.0 km,38 mins,49+Macy+St+Amesbury+MA,462+Highland+Ave+Salem+MA
+188,71.0 km,48 mins,49+Macy+St+Amesbury+MA,38+Littleton+Rd+Ayer+MA
+189,72.9 km,49 mins,49+Macy+St+Amesbury+MA,31+Central+Ave+Ayer+MA
+190,21.0 km,15 mins,107+Elm+St+Salisbury+MA,68+Tenney+St+Georgetown+MA
+191,122 km,1 hour 13 mins,107+Elm+St+Salisbury+MA,266+North+Main+Street+Millbury+MA
+192,115 km,1 hour 8 mins,107+Elm+St+Salisbury+MA,65+Pullman+Street+Worcester+MA
+193,110 km,1 hour 8 mins,107+Elm+St+Salisbury+MA,65+West+Boylston+Street+W+Boylston+MA
+194,100 km,1 hour 6 mins,107+Elm+St+Salisbury+MA,416+Boston+Post+Road+Marlborough+MA
+195,17.8 km,17 mins,107+Elm+St+Salisbury+MA,116+Newburyport+Turnpike+Rowley+MA
+196,44.7 km,48 mins,107+Elm+St+Salisbury+MA,38+Great+Republic+Drive+Gloucester+MA
+197,16.4 km,15 mins,107+Elm+St+Salisbury+MA,300+Newburyport+Turnpike+Rowley+MA
+198,47.4 km,34 mins,107+Elm+St+Salisbury+MA,50+Grove+St+Salem+MA
+199,3.7 km,5 mins,107+Elm+St+Salisbury+MA,49+Macy+St+Amesbury+MA
+200,1 m,1 min,107+Elm+St+Salisbury+MA,107+Elm+St+Salisbury+MA
+201,49.1 km,39 mins,107+Elm+St+Salisbury+MA,3+Dodge+Street+Salem+MA
+202,127 km,1 hour 15 mins,107+Elm+St+Salisbury+MA,5+Forge+Parkway+Franklin+MA
+203,107 km,1 hour 5 mins,107+Elm+St+Salisbury+MA,640+Lincoln+Street+Worcester+MA
+204,67.2 km,51 mins,107+Elm+St+Salisbury+MA,541+Massachusetts+Ave+Cambridge+MA
+205,140 km,1 hour 23 mins,107+Elm+St+Salisbury+MA,640+Douglas+St+Uxbridge+MA
+206,49.0 km,38 mins,107+Elm+St+Salisbury+MA,462+Highland+Ave+Salem+MA
+207,74.7 km,49 mins,107+Elm+St+Salisbury+MA,38+Littleton+Rd+Ayer+MA
+208,76.5 km,51 mins,107+Elm+St+Salisbury+MA,31+Central+Ave+Ayer+MA
+209,29.2 km,30 mins,3+Dodge+Street+Salem+MA,68+Tenney+St+Georgetown+MA
+210,101 km,1 hour 10 mins,3+Dodge+Street+Salem+MA,266+North+Main+Street+Millbury+MA
+211,113 km,1 hour 15 mins,3+Dodge+Street+Salem+MA,65+Pullman+Street+Worcester+MA
+212,108 km,1 hour 15 mins,3+Dodge+Street+Salem+MA,65+West+Boylston+Street+W+Boylston+MA
+213,67.7 km,1 hour 2 mins,3+Dodge+Street+Salem+MA,416+Boston+Post+Road+Marlborough+MA
+214,23.1 km,31 mins,3+Dodge+Street+Salem+MA,116+Newburyport+Turnpike+Rowley+MA
+215,28.1 km,30 mins,3+Dodge+Street+Salem+MA,38+Great+Republic+Drive+Gloucester+MA
+216,24.5 km,33 mins,3+Dodge+Street+Salem+MA,300+Newburyport+Turnpike+Rowley+MA
+217,2.2 km,7 mins,3+Dodge+Street+Salem+MA,50+Grove+St+Salem+MA
+218,44.4 km,39 mins,3+Dodge+Street+Salem+MA,49+Macy+St+Amesbury+MA
+219,44.1 km,38 mins,3+Dodge+Street+Salem+MA,107+Elm+St+Salisbury+MA
+220,1 m,1 min,3+Dodge+Street+Salem+MA,3+Dodge+Street+Salem+MA
+221,103 km,1 hour 10 mins,3+Dodge+Street+Salem+MA,5+Forge+Parkway+Franklin+MA
+222,106 km,1 hour 11 mins,3+Dodge+Street+Salem+MA,640+Lincoln+Street+Worcester+MA
+223,39.0 km,42 mins,3+Dodge+Street+Salem+MA,541+Massachusetts+Ave+Cambridge+MA
+224,119 km,1 hour 20 mins,3+Dodge+Street+Salem+MA,640+Douglas+St+Uxbridge+MA
+225,5.0 km,11 mins,3+Dodge+Street+Salem+MA,462+Highland+Ave+Salem+MA
+226,72.9 km,56 mins,3+Dodge+Street+Salem+MA,38+Littleton+Rd+Ayer+MA
+227,74.8 km,57 mins,3+Dodge+Street+Salem+MA,31+Central+Ave+Ayer+MA
+228,120 km,1 hour 12 mins,5+Forge+Parkway+Franklin+MA,68+Tenney+St+Georgetown+MA
+229,50.2 km,34 mins,5+Forge+Parkway+Franklin+MA,266+North+Main+Street+Millbury+MA
+230,61.8 km,39 mins,5+Forge+Parkway+Franklin+MA,65+Pullman+Street+Worcester+MA
+231,56.7 km,39 mins,5+Forge+Parkway+Franklin+MA,65+West+Boylston+Street+W+Boylston+MA
+232,39.8 km,32 mins,5+Forge+Parkway+Franklin+MA,416+Boston+Post+Road+Marlborough+MA
+233,116 km,1 hour 13 mins,5+Forge+Parkway+Franklin+MA,116+Newburyport+Turnpike+Rowley+MA
+234,128 km,1 hour 20 mins,5+Forge+Parkway+Franklin+MA,38+Great+Republic+Drive+Gloucester+MA
+235,122 km,1 hour 15 mins,5+Forge+Parkway+Franklin+MA,300+Newburyport+Turnpike+Rowley+MA
+236,101 km,1 hour 6 mins,5+Forge+Parkway+Franklin+MA,50+Grove+St+Salem+MA
+237,124 km,1 hour 13 mins,5+Forge+Parkway+Franklin+MA,49+Macy+St+Amesbury+MA
+238,126 km,1 hour 14 mins,5+Forge+Parkway+Franklin+MA,107+Elm+St+Salisbury+MA
+239,103 km,1 hour 11 mins,5+Forge+Parkway+Franklin+MA,3+Dodge+Street+Salem+MA
+240,1 m,1 min,5+Forge+Parkway+Franklin+MA,5+Forge+Parkway+Franklin+MA
+241,54.4 km,35 mins,5+Forge+Parkway+Franklin+MA,640+Lincoln+Street+Worcester+MA
+242,67.3 km,45 mins,5+Forge+Parkway+Franklin+MA,541+Massachusetts+Ave+Cambridge+MA
+243,23.0 km,28 mins,5+Forge+Parkway+Franklin+MA,640+Douglas+St+Uxbridge+MA
+244,104 km,1 hour 10 mins,5+Forge+Parkway+Franklin+MA,462+Highland+Ave+Salem+MA
+245,66.4 km,44 mins,5+Forge+Parkway+Franklin+MA,38+Littleton+Rd+Ayer+MA
+246,68.5 km,44 mins,5+Forge+Parkway+Franklin+MA,31+Central+Ave+Ayer+MA
+247,93.2 km,1 hour 6 mins,640+Lincoln+Street+Worcester+MA,68+Tenney+St+Georgetown+MA
+248,16.1 km,14 mins,640+Lincoln+Street+Worcester+MA,266+North+Main+Street+Millbury+MA
+249,4.6 km,7 mins,640+Lincoln+Street+Worcester+MA,65+Pullman+Street+Worcester+MA
+250,7.9 km,11 mins,640+Lincoln+Street+Worcester+MA,65+West+Boylston+Street+W+Boylston+MA
+251,27.0 km,26 mins,640+Lincoln+Street+Worcester+MA,416+Boston+Post+Road+Marlborough+MA
+252,98.6 km,1 hour 12 mins,640+Lincoln+Street+Worcester+MA,116+Newburyport+Turnpike+Rowley+MA
+253,131 km,1 hour 22 mins,640+Lincoln+Street+Worcester+MA,38+Great+Republic+Drive+Gloucester+MA
+254,99.0 km,1 hour 12 mins,640+Lincoln+Street+Worcester+MA,300+Newburyport+Turnpike+Rowley+MA
+255,105 km,1 hour 8 mins,640+Lincoln+Street+Worcester+MA,50+Grove+St+Salem+MA
+256,105 km,1 hour 4 mins,640+Lincoln+Street+Worcester+MA,49+Macy+St+Amesbury+MA
+257,108 km,1 hour 5 mins,640+Lincoln+Street+Worcester+MA,107+Elm+St+Salisbury+MA
+258,106 km,1 hour 13 mins,640+Lincoln+Street+Worcester+MA,3+Dodge+Street+Salem+MA
+259,53.5 km,35 mins,640+Lincoln+Street+Worcester+MA,5+Forge+Parkway+Franklin+MA
+260,1 m,1 min,640+Lincoln+Street+Worcester+MA,640+Lincoln+Street+Worcester+MA
+261,70.8 km,48 mins,640+Lincoln+Street+Worcester+MA,541+Massachusetts+Ave+Cambridge+MA
+262,33.7 km,24 mins,640+Lincoln+Street+Worcester+MA,640+Douglas+St+Uxbridge+MA
+263,107 km,1 hour 12 mins,640+Lincoln+Street+Worcester+MA,462+Highland+Ave+Salem+MA
+264,48.0 km,35 mins,640+Lincoln+Street+Worcester+MA,38+Littleton+Rd+Ayer+MA
+265,50.2 km,35 mins,640+Lincoln+Street+Worcester+MA,31+Central+Ave+Ayer+MA
+266,50.7 km,44 mins,541+Massachusetts+Ave+Cambridge+MA,68+Tenney+St+Georgetown+MA
+267,66.0 km,45 mins,541+Massachusetts+Ave+Cambridge+MA,266+North+Main+Street+Millbury+MA
+268,80.3 km,53 mins,541+Massachusetts+Ave+Cambridge+MA,65+Pullman+Street+Worcester+MA
+269,75.2 km,53 mins,541+Massachusetts+Ave+Cambridge+MA,65+West+Boylston+Street+W+Boylston+MA
+270,45.6 km,41 mins,541+Massachusetts+Ave+Cambridge+MA,416+Boston+Post+Road+Marlborough+MA
+271,46.9 km,45 mins,541+Massachusetts+Ave+Cambridge+MA,116+Newburyport+Turnpike+Rowley+MA
+272,61.4 km,53 mins,541+Massachusetts+Ave+Cambridge+MA,38+Great+Republic+Drive+Gloucester+MA
+273,53.0 km,46 mins,541+Massachusetts+Ave+Cambridge+MA,300+Newburyport+Turnpike+Rowley+MA
+274,35.2 km,39 mins,541+Massachusetts+Ave+Cambridge+MA,50+Grove+St+Salem+MA
+275,65.9 km,53 mins,541+Massachusetts+Ave+Cambridge+MA,49+Macy+St+Amesbury+MA
+276,65.6 km,52 mins,541+Massachusetts+Ave+Cambridge+MA,107+Elm+St+Salisbury+MA
+277,36.9 km,44 mins,541+Massachusetts+Ave+Cambridge+MA,3+Dodge+Street+Salem+MA
+278,67.5 km,45 mins,541+Massachusetts+Ave+Cambridge+MA,5+Forge+Parkway+Franklin+MA
+279,72.9 km,49 mins,541+Massachusetts+Ave+Cambridge+MA,640+Lincoln+Street+Worcester+MA
+280,1 m,1 min,541+Massachusetts+Ave+Cambridge+MA,541+Massachusetts+Ave+Cambridge+MA
+281,83.6 km,55 mins,541+Massachusetts+Ave+Cambridge+MA,640+Douglas+St+Uxbridge+MA
+282,27.0 km,40 mins,541+Massachusetts+Ave+Cambridge+MA,462+Highland+Ave+Salem+MA
+283,51.8 km,49 mins,541+Massachusetts+Ave+Cambridge+MA,38+Littleton+Rd+Ayer+MA
+284,52.7 km,49 mins,541+Massachusetts+Ave+Cambridge+MA,31+Central+Ave+Ayer+MA
+285,136 km,1 hour 23 mins,640+Douglas+St+Uxbridge+MA,68+Tenney+St+Georgetown+MA
+286,20.0 km,15 mins,640+Douglas+St+Uxbridge+MA,266+North+Main+Street+Millbury+MA
+287,34.9 km,25 mins,640+Douglas+St+Uxbridge+MA,65+Pullman+Street+Worcester+MA
+288,39.1 km,30 mins,640+Douglas+St+Uxbridge+MA,65+West+Boylston+Street+W+Boylston+MA
+289,58.0 km,44 mins,640+Douglas+St+Uxbridge+MA,416+Boston+Post+Road+Marlborough+MA
+290,132 km,1 hour 24 mins,640+Douglas+St+Uxbridge+MA,116+Newburyport+Turnpike+Rowley+MA
+291,144 km,1 hour 31 mins,640+Douglas+St+Uxbridge+MA,38+Great+Republic+Drive+Gloucester+MA
+292,138 km,1 hour 26 mins,640+Douglas+St+Uxbridge+MA,300+Newburyport+Turnpike+Rowley+MA
+293,118 km,1 hour 17 mins,640+Douglas+St+Uxbridge+MA,50+Grove+St+Salem+MA
+294,138 km,1 hour 23 mins,640+Douglas+St+Uxbridge+MA,49+Macy+St+Amesbury+MA
+295,140 km,1 hour 24 mins,640+Douglas+St+Uxbridge+MA,107+Elm+St+Salisbury+MA
+296,120 km,1 hour 22 mins,640+Douglas+St+Uxbridge+MA,3+Dodge+Street+Salem+MA
+297,23.0 km,28 mins,640+Douglas+St+Uxbridge+MA,5+Forge+Parkway+Franklin+MA
+298,34.1 km,26 mins,640+Douglas+St+Uxbridge+MA,640+Lincoln+Street+Worcester+MA
+299,83.7 km,56 mins,640+Douglas+St+Uxbridge+MA,541+Massachusetts+Ave+Cambridge+MA
+300,1 m,1 min,640+Douglas+St+Uxbridge+MA,640+Douglas+St+Uxbridge+MA
+301,120 km,1 hour 20 mins,640+Douglas+St+Uxbridge+MA,462+Highland+Ave+Salem+MA
+302,76.5 km,51 mins,640+Douglas+St+Uxbridge+MA,38+Littleton+Rd+Ayer+MA
+303,77.3 km,51 mins,640+Douglas+St+Uxbridge+MA,31+Central+Ave+Ayer+MA
+304,34.5 km,28 mins,462+Highland+Ave+Salem+MA,68+Tenney+St+Georgetown+MA
+305,98.7 km,1 hour 7 mins,462+Highland+Ave+Salem+MA,266+North+Main+Street+Millbury+MA
+306,110 km,1 hour 12 mins,462+Highland+Ave+Salem+MA,65+Pullman+Street+Worcester+MA
+307,105 km,1 hour 12 mins,462+Highland+Ave+Salem+MA,65+West+Boylston+Street+W+Boylston+MA
+308,65.0 km,59 mins,462+Highland+Ave+Salem+MA,416+Boston+Post+Road+Marlborough+MA
+309,30.7 km,29 mins,462+Highland+Ave+Salem+MA,116+Newburyport+Turnpike+Rowley+MA
+310,39.4 km,35 mins,462+Highland+Ave+Salem+MA,38+Great+Republic+Drive+Gloucester+MA
+311,36.9 km,31 mins,462+Highland+Ave+Salem+MA,300+Newburyport+Turnpike+Rowley+MA
+312,7.0 km,13 mins,462+Highland+Ave+Salem+MA,50+Grove+St+Salem+MA
+313,49.8 km,37 mins,462+Highland+Ave+Salem+MA,49+Macy+St+Amesbury+MA
+314,49.4 km,36 mins,462+Highland+Ave+Salem+MA,107+Elm+St+Salisbury+MA
+315,7.5 km,15 mins,462+Highland+Ave+Salem+MA,3+Dodge+Street+Salem+MA
+316,100 km,1 hour 7 mins,462+Highland+Ave+Salem+MA,5+Forge+Parkway+Franklin+MA
+317,103 km,1 hour 8 mins,462+Highland+Ave+Salem+MA,640+Lincoln+Street+Worcester+MA
+318,27.0 km,37 mins,462+Highland+Ave+Salem+MA,541+Massachusetts+Ave+Cambridge+MA
+319,116 km,1 hour 17 mins,462+Highland+Ave+Salem+MA,640+Douglas+St+Uxbridge+MA
+320,1 m,1 min,462+Highland+Ave+Salem+MA,462+Highland+Ave+Salem+MA
+321,70.3 km,53 mins,462+Highland+Ave+Salem+MA,38+Littleton+Rd+Ayer+MA
+322,72.1 km,54 mins,462+Highland+Ave+Salem+MA,31+Central+Ave+Ayer+MA
+323,59.8 km,50 mins,38+Littleton+Rd+Ayer+MA,68+Tenney+St+Georgetown+MA
+324,61.3 km,42 mins,38+Littleton+Rd+Ayer+MA,266+North+Main+Street+Millbury+MA
+325,43.7 km,31 mins,38+Littleton+Rd+Ayer+MA,65+Pullman+Street+Worcester+MA
+326,38.8 km,31 mins,38+Littleton+Rd+Ayer+MA,65+West+Boylston+Street+W+Boylston+MA
+327,39.3 km,34 mins,38+Littleton+Rd+Ayer+MA,416+Boston+Post+Road+Marlborough+MA
+328,65.3 km,55 mins,38+Littleton+Rd+Ayer+MA,116+Newburyport+Turnpike+Rowley+MA
+329,97.4 km,1 hour 6 mins,38+Littleton+Rd+Ayer+MA,38+Great+Republic+Drive+Gloucester+MA
+330,65.6 km,55 mins,38+Littleton+Rd+Ayer+MA,300+Newburyport+Turnpike+Rowley+MA
+331,71.1 km,52 mins,38+Littleton+Rd+Ayer+MA,50+Grove+St+Salem+MA
+332,72.1 km,47 mins,38+Littleton+Rd+Ayer+MA,49+Macy+St+Amesbury+MA
+333,74.6 km,48 mins,38+Littleton+Rd+Ayer+MA,107+Elm+St+Salisbury+MA
+334,72.8 km,56 mins,38+Littleton+Rd+Ayer+MA,3+Dodge+Street+Salem+MA
+335,65.8 km,43 mins,38+Littleton+Rd+Ayer+MA,5+Forge+Parkway+Franklin+MA
+336,46.5 km,33 mins,38+Littleton+Rd+Ayer+MA,640+Lincoln+Street+Worcester+MA
+337,49.9 km,50 mins,38+Littleton+Rd+Ayer+MA,541+Massachusetts+Ave+Cambridge+MA
+338,78.9 km,52 mins,38+Littleton+Rd+Ayer+MA,640+Douglas+St+Uxbridge+MA
+339,73.2 km,55 mins,38+Littleton+Rd+Ayer+MA,462+Highland+Ave+Salem+MA
+340,1 m,1 min,38+Littleton+Rd+Ayer+MA,38+Littleton+Rd+Ayer+MA
+341,2.0 km,4 mins,38+Littleton+Rd+Ayer+MA,31+Central+Ave+Ayer+MA
+342,61.6 km,51 mins,31+Central+Ave+Ayer+MA,68+Tenney+St+Georgetown+MA
+343,60.2 km,41 mins,31+Central+Ave+Ayer+MA,266+North+Main+Street+Millbury+MA
+344,44.2 km,30 mins,31+Central+Ave+Ayer+MA,65+Pullman+Street+Worcester+MA
+345,39.3 km,31 mins,31+Central+Ave+Ayer+MA,65+West+Boylston+Street+W+Boylston+MA
+346,41.4 km,34 mins,31+Central+Ave+Ayer+MA,416+Boston+Post+Road+Marlborough+MA
+347,67.1 km,57 mins,31+Central+Ave+Ayer+MA,116+Newburyport+Turnpike+Rowley+MA
+348,99.2 km,1 hour 7 mins,31+Central+Ave+Ayer+MA,38+Great+Republic+Drive+Gloucester+MA
+349,67.4 km,57 mins,31+Central+Ave+Ayer+MA,300+Newburyport+Turnpike+Rowley+MA
+350,72.9 km,53 mins,31+Central+Ave+Ayer+MA,50+Grove+St+Salem+MA
+351,73.9 km,49 mins,31+Central+Ave+Ayer+MA,49+Macy+St+Amesbury+MA
+352,76.4 km,50 mins,31+Central+Ave+Ayer+MA,107+Elm+St+Salisbury+MA
+353,74.6 km,58 mins,31+Central+Ave+Ayer+MA,3+Dodge+Street+Salem+MA
+354,67.9 km,43 mins,31+Central+Ave+Ayer+MA,5+Forge+Parkway+Franklin+MA
+355,48.6 km,33 mins,31+Central+Ave+Ayer+MA,640+Lincoln+Street+Worcester+MA
+356,53.0 km,50 mins,31+Central+Ave+Ayer+MA,541+Massachusetts+Ave+Cambridge+MA
+357,77.8 km,51 mins,31+Central+Ave+Ayer+MA,640+Douglas+St+Uxbridge+MA
+358,75.0 km,57 mins,31+Central+Ave+Ayer+MA,462+Highland+Ave+Salem+MA
+359,2.0 km,4 mins,31+Central+Ave+Ayer+MA,38+Littleton+Rd+Ayer+MA
+360,1 m,1 min,31+Central+Ave+Ayer+MA,31+Central+Ave+Ayer+MA

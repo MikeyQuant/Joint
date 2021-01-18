@@ -1,5 +1,8 @@
 ,from_lat,from_lon,to_lat,to_lon,From Address,To Address
-0,42.7178462,-70.9603211,42.4929904,-70.9348267,68+Tenney+St+Georgetown+MA, 462+Highland+Ave+Salem+MA Load(600)
-1,42.4929904,-70.9348267,42.5223503,-70.9108395, 462+Highland+Ave+Salem+MA Load(600), 50+Grove+St+Salem+MA Load(300)
-2,42.5223503,-70.9108395,42.7178462,-70.9603211, 50+Grove+St+Salem+MA Load(300),68+Tenney+St+Georgetown+MA
-3,42.5223503,-70.9108395,42.7178462,-70.9603211, 50+Grove+St+Salem+MA Load(300),68+Tenney+St+Georgetown+MA
+0,42.7178462,-70.9603211,42.5518126,-71.5659507,68+Tenney+St+Georgetown+MA, 38+Littleton+Rd+Ayer+MA Load(531)
+1,42.5518126,-71.5659507,42.5589326,-71.583761, 38+Littleton+Rd+Ayer+MA Load(531), 31+Central+Ave+Ayer+MA Load(525)
+2,42.5589326,-71.583761,42.3586426,-71.7834089, 31+Central+Ave+Ayer+MA Load(525), 65+West+Boylston+Street+W+Boylston+MA Load(495)
+3,42.3586426,-71.7834089,42.3235833,-71.7987318, 65+West+Boylston+Street+W+Boylston+MA Load(495), 65+Pullman+Street+Worcester+MA Load(195)
+4,42.3235833,-71.7987318,42.29781,-71.76453000000001, 65+Pullman+Street+Worcester+MA Load(195), 640+Lincoln+Street+Worcester+MA Load(150)
+5,42.29781,-71.76453000000001,42.7178462,-70.9603211, 640+Lincoln+Street+Worcester+MA Load(150),68+Tenney+St+Georgetown+MA
+6,42.29781,-71.76453000000001,42.7178462,-70.9603211, 640+Lincoln+Street+Worcester+MA Load(150),68+Tenney+St+Georgetown+MA
