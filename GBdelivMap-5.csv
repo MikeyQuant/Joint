@@ -1,0 +1,7 @@
+,from_lat,from_lon,to_lat,to_lon,From Address,To Address
+0,42.7178462,-70.9603211,42.3586426,-71.7834089,68+Tenney+St+Georgetown+MA, 65+West+Boylston+Street+W+Boylston+MA Load(595)
+1,42.3586426,-71.7834089,42.3235833,-71.7987318, 65+West+Boylston+Street+W+Boylston+MA Load(595), 65+Pullman+Street+Worcester+MA Load(295)
+2,42.3235833,-71.7987318,42.29781,-71.76453000000001, 65+Pullman+Street+Worcester+MA Load(295), 640+Lincoln+Street+Worcester+MA Load(250)
+3,42.29781,-71.76453000000001,42.206379,-71.7773189, 640+Lincoln+Street+Worcester+MA Load(250), 266+North+Main+Street+Millbury+MA Load(100)
+4,42.206379,-71.7773189,42.7178462,-70.9603211, 266+North+Main+Street+Millbury+MA Load(100),68+Tenney+St+Georgetown+MA
+5,42.206379,-71.7773189,42.7178462,-70.9603211, 266+North+Main+Street+Millbury+MA Load(100),68+Tenney+St+Georgetown+MA
