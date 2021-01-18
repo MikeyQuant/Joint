@@ -50,5 +50,4 @@ def sl():
                 st.pydeck_chart(arc_layer_map)
         except:
             pass
-second_batch()
 sl()
