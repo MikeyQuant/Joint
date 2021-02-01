@@ -33,4 +33,4 @@ for month in range(1,25):
     print(s)
     revs.append(s)
 
-st.plot(revs)
+st.line_chart(pd.DataFrame(revs))
