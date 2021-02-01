@@ -1,6 +1,5 @@
 import pandas as pd
 import streamlit as st
-import matplotlib.pyplot as plt
 df=pd.read_csv("Delivery.csv")
 print(df)
 st.title("Revenue Projections")
@@ -33,6 +32,5 @@ for month in range(1,25):
     s=sum(df[f"month{month}"])
     print(s)
     revs.append(s)
-plt.plot(revs)
-plt.ylabel("Monthly Revenue")
-st.pyplot(plt.show())
+
+st.plot(revs)
