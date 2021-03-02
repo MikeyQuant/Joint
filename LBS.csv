@@ -1,0 +1,43 @@
+,Key,Value
+0,1010 Checking-Operating Account,19824.34
+2,1020 Investment Account,421834.06
+4,1030 Payroll Checking,3285.02
+6,Total Bank Accounts,444943.42
+8,1210 Accounts Receivable (A/R),233106.5
+10,Total Accounts Receivable,233106.5
+12,1330 Stock on Hand,96473.68
+14,1340 Inventory-Goods Available for Sale,94797.74
+16,"1400.01 Due from Ohya, LLC",0.0
+18,Undeposited Funds,11760.0
+20,Total Other Current Assets,203031.42
+22,Total Current Assets,881081.34
+24,1500 Startup Costs,780191.21
+26,1505 Syndication Costs,153023.0
+28,1521 Accumulated Depreciation,0.0
+30,1522 Original cost,646503.81
+32,Total 1520 Machinery & Equipment,646503.81
+34,1531 Accumulated Depreciation,0.0
+36,1532 Original cost,13396.42
+38,Total 1530 Office Equipment,13396.42
+40,1542 Original cost,29600.0
+42,Total 1540 Vehicles,29600.0
+44,Total Fixed Assets,1622714.44
+46,1400 Building Deposits,1104709.58
+48,Total Other Assets,1104709.58
+50,TOTAL ASSETS,3608505.36
+52,2110 Accounts Payable (A/P),0.0
+54,Total Accounts Payable,0.0
+56,2111 TINC Amex Credit Card,12426.75
+58,Total Credit Cards,12426.75
+60,2400 Due to Partners,5702.09
+62,2560 Sales Tax Payable-MA,195.31
+64,Total Other Current Liabilities,5897.4
+66,Total Current Liabilities,18324.15
+68,Total Liabilities,18324.15
+70,3500 Partners' Capital-Contributions,4340074.05
+72,3501 Partners' Capital-Distributions,-63270.0
+74,3900 Retained Earnings,-909819.11
+76,3901 Opening Balance Equity,-4287.29
+78,Net Income,227483.56
+80,Total Equity,3590181.21
+82,TOTAL LIABILITIES AND EQUITY,3608505.36
