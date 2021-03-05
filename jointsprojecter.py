@@ -55,10 +55,8 @@ def sales_by_acct_chart():
 
     c3.pyplot(plt)
     c4.dataframe(dfn)
-def bs_pie():
-    col1,col2=st.beta_columns(2)
-    def bodek_pie(a):
-            output_file("pie.html")
+def bodek_pie(a):
+            #output_file("pie.html")
             dict={}
             for x,v in zip(a.index,a["Value"]):
                 dict[x]=v
@@ -82,15 +80,24 @@ def bs_pie():
             p.grid.grid_line_color = None
             #st.bokeh_chart(p)
             return p
-    st.header("Balance Sheet Breakdown")
-
+def bs_pie():
     a=pd.read_csv("Apie.csv",index_col=0)
     l=pd.read_csv("Lpie.csv",index_col=0)
-    col2.header("Liability Breakdown")
-    col2.bokeh_chart(bodek_pie(l))
+    st.header("Balance Sheet Breakdown")
+    a=bodek_pie(a)
+    l=bodek_pie(l)
+    col1,col2=st.beta_columns(2)
     col1.header("Asset Breakdown")
 
-    col1.bokeh_chart(bodek_pie(a))
+
+
+    col1.bokeh_chart(a)
+
+
+
+    col2.header("Liability Breakdown")
+    col2.bokeh_chart((l))
+
 
 
 
@@ -219,12 +226,13 @@ def sales_map():
         tooltip = {"html": "<b>{Dispensary}</b>  Rev: <b>{Revenue}</b> Cases:{Cases} ","style": {"background": "grey", "color": "white", "font-family": '"Helvetica Neue", Arial', "z-index": "10000"}}
 
         arc_layer_map=pdk.Deck(map_style='mapbox://styles/mapbox/light-v10',layers=[column_layer],initial_view_state=view,mapbox_key=mbapi,tooltip=tooltip)
-        st.header("Sales Map")
+        st.header("Sales By Orders")
         c1,c2=st.beta_columns(2)
 
 
         c1.pydeck_chart(arc_layer_map)
         c2.dataframe(df)
+
 def generate_cords(df):
             import googlemaps
             api="AIzaSyA9lJOx8mjlgRdgc-OOzXasd58Pa4B6neo"
@@ -246,49 +254,16 @@ def generate_cords(df):
             return df
 def dispo_map():
 
-        df=pd.read_csv("MassDispoCords.csv").dropna(axis='columns')
-        ref=pd.read_csv("masstowns.csv")
-        df["town_pop"]=0
-        for i,town in enumerate(df["business_city"]):
-            for i2,t in enumerate(ref["Name"]):
-                if type(t)==type(1.1):
-                    pass
 
-
-
-                else:
-                    print(t,town)
-                    if t.upper()==town.upper():
-                        df["town_pop"][i]=int(ref["Population"][i2].replace(",",""))
-                        print(type(ref["Population"][i]))
-                        print(town)
-                        break
-        api="AIzaSyA9lJOx8mjlgRdgc-OOzXasd58Pa4B6neo"
-
-        # importing googlemaps module
-        import googlemaps
-        gmaps = googlemaps.Client(key=api)
-        dm=[]
-        durm=[]
-        ad1=[]
-        ad2=[]
-        y="68+Tenney+Street+Georgetown+MA"
-        df["Distance"]=0
-        for i,x in enumerate(df["Address"]):
-
-              df["Distance"][i]=( gmaps.distance_matrix(x,y)["rows"][0]["elements"][0]["distance"]["text"])
-              print(df["Distance"][i],x)
-        for index, x in enumerate(df["Distance"]):
-            df["Distance"][index]=float(x.split(" ")[0].replace(",",""))
-            print(type(df["Distance"][index]))
-        df.to_csv("MassDispoCords.csv")
+        df=pd.read_csv("MassDispoCords.csv")
         view=pdk.ViewState(latitude=df["lat"].mean(),longitude=df["lon"].mean(),pitch=20,zoom=5)
-        column_layer = pdk.Layer("ColumnLayer",data=df,get_position=["lon", "lat"],get_elevation="town_pop",elevation_scale=1,radius=250,pickable=True,auto_highlight=True,get_fill_color=[1,1,1,1])
+        column_layer = pdk.Layer("ColumnLayer",data=df,get_position=["lon", "lat"],get_elevation="town_pop / Distance",elevation_scale=10,radius=250,pickable=True,auto_highlight=True,get_fill_color=["Distance", "town_pop", "255 - Distance", 255])
 
-        tooltip = {"html": "<b>{business_name}</b> Town Population: {town_pop}","style": {"background": "grey", "color": "white", "font-family": '"Helvetica Neue", Arial', "z-index": "10000"}}
+        tooltip = {"html": "<b>{business_name}</b> Town Population: {town_pop} Distance: {Distance}","style": {"background": "grey", "color": "white", "font-family": '"Helvetica Neue", Arial', "z-index": "10000"}}
 
         arc_layer_map=pdk.Deck(map_style='mapbox://styles/mapbox/light-v10',layers=[column_layer],initial_view_state=view,mapbox_key=mbapi,tooltip=tooltip)
-        st.header("Sales Map")
+        st.header("All Mass Dispensaries Map")
+        st.write("Columns are weighted by the population of the town / distance from HQ")
         c1,c2=st.beta_columns(2)
         c1.pydeck_chart(arc_layer_map)
         c2.dataframe(df)
@@ -297,7 +272,8 @@ def kpi():
     expense_graph()
     sales_by_acct_chart()
     sales_map()
+    dispo_map()
     bs_pie()
 
     production_kpi()
-dispo_map()
+kpi()
