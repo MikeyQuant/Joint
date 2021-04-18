@@ -1,36 +1,26 @@
-import pandas as pd
 import streamlit as st
-df=pd.read_csv("Delivery.csv")
-print(df)
-st.title("Revenue Projections")
-gg=st.slider("Enter average weeks till reorder / 10")
-st.write(f"Re order every {gg/10} weeks")
+import pandas as pd
+import pydeck as pdk
 
-df["cases_per_week"]=df["Cases"]/gg
-for x in df:
-    print(x)
-df["Revenue"]=df["Cases"]*84
-df["Yearly Cases"]=52*df["cases_per_week"]
-df["Annual Revenue"]=df["Yearly Cases"]*84
-df["Monthly Revenue"]=df["Annual Revenue"]/12
-gr=st.slider("Enter Monthly Growth Rate / 100")
-st.write(f"{gr}% per month growth rate")
-alp="ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-alph=[]
-for letter in alp:
-    alph.append(letter)
-for letter in alp:
-    for letter2 in alp:
-        alph.append(letter+letter2)
-revs=[]
-for month in range(1,25):
-    try:
-        df[f"month{month}"]=df["Monthly Revenue"] *1+([gr*x for x in range(month)][-1])
-    except:
-        df[f"month{month}"]=df["Monthly Revenue"] *1+([gr*x for x in range(month)][-1])
 
-    s=sum(df[f"month{month}"])
-    print(s)
-    revs.append(s)
 
-st.line_chart(pd.DataFrame(revs))
+def dispo_map():
+
+        mbapi="pk.eyJ1IjoibWlrZXlxdWFudCIsImEiOiJja25rbDE0ODUwYWRpMnJwYjI0a25zc2FtIn0.XRafIAKi72faYbEMjYO5aw"
+        df=pd.read_csv("MassDispoCords2.csv")
+        print(len(df))
+        view=pdk.ViewState(latitude=df["lat"].mean(),longitude=df["lon"].mean(),pitch=20,zoom=5)
+        all_dispo = pdk.Layer("ColumnLayer",data=df,get_position=["lon", "lat"],get_elevation="ClosestDispo",elevation_scale=250,radius=500,pickable=True,auto_highlight=True,get_fill_color=["Distance", "town_pop", "255 - Distance", 255])
+        dff=pd.read_csv("CustomersMap.csv")
+        sales_dispo = pdk.Layer("ColumnLayer",data=dff,get_position=["lon", "lat"],get_elevation=500,elevation_scale=15,radius=600,pickable=True,auto_highlight=True,get_fill_color=[255,255,255,255])
+
+        tooltip = {"html": "<b>{business_name}</b> Town Population: {town_pop} Distance: {ClosestDispo}","style": {"background": "grey", "color": "white", "font-family": '"Helvetica Neue", Arial', "z-index": "10000"}}
+
+        arc_layer_map=pdk.Deck(map_provider='carto',layers=[all_dispo,sales_dispo],initial_view_state=view,api_keys=None,tooltip=tooltip)
+        st.header("All Mass Dispensaries Map")
+        st.write("Columns are weighted by Square Footage of Facility")
+        st.write("Black Columns are current customers, some may overlap with potential customers")
+
+        st.pydeck_chart(arc_layer_map)
+        arc_layer_map.to_html("Dispensary_Map.html")
+dispo_map()
