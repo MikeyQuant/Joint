@@ -18,8 +18,8 @@ def dispo_map():
 
         arc_layer_map=pdk.Deck(map_provider='carto',layers=[all_dispo,sales_dispo],initial_view_state=view,api_keys=None,tooltip=tooltip)
         st.header("All Mass Dispensaries Map")
-        st.write("Columns are weighted by Square Footage of Facility")
-        st.write("Black Columns are current customers, some may overlap with potential customers")
+        st.write("Columns are weighted by distance from nearest current customer")
+        st.write("White Columns are current customers")
 
         st.pydeck_chart(arc_layer_map)
         arc_layer_map.to_html("Dispensary_Map.html")
