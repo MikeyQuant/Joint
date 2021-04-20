@@ -33,5 +33,6 @@ def dispo_map():
         st.write("White Columns are current customers.\n\nRed Columns are Provisional License holders.\n\nGreen/Blue hold Final Licenses.")
 
         st.pydeck_chart(arc_layer_map)
+        st.title("LOOKING AT MAP WHILE DRIVING NOT RECCOMENDED")
         arc_layer_map.to_html("Dispensary_Map.html")
 dispo_map()
