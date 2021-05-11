@@ -1,0 +1,225 @@
+,Cel,Ach,Dre,Account,Total,Date
+0,15,20,0,Happy Valley,35,2/16/2021
+1,60,60,0,Alternative Therapies Group (Amesbury),120,2/16/2021
+2,36,36,0,Alternative Therapies Group (Salem),72,2/16/2021
+3,70,70,0,Alternative Therapies Group (Salisbury),140,2/16/2021
+4,11,11,0,The Botanist (Shrewsbury),22,2/16/2021
+5,15,15,0,The Botanist (Worcester),30,2/16/2021
+6,50,50,0,Campfire Cannabis,100,2/16/2021
+7,60,65,0,Canna Provisions - Holyoke,125,2/16/2021
+8,75,75,0,Canna Vana,150,2/16/2021
+9,20,20,0,Cape Ann Cannabis,40,2/16/2021
+10,20,20,0,Fine Fettle,40,2/16/2021
+11,50,50,0,Mission Georgetown,100,2/16/2021
+12,15,15,0,Nature's Remedy (Millbury),30,2/16/2021
+13,25,25,0,Nature's Remedy (Tyngsborough),50,2/16/2021
+14,75,75,0,Panacea Wellness,150,2/16/2021
+15,25,25,0,Resinate (Northampton),50,2/16/2021
+16,25,25,0,Resinate (Worcester),50,2/16/2021
+17,25,25,0,Rev Clinics,50,2/16/2021
+18,12,12,0,RISE,24,2/16/2021
+19,20,20,0,Seagrass,40,2/16/2021
+20,50,50,0,Stem,100,2/16/2021
+21,10,10,20,Happy Valley,40,2/22/2021
+22,35,35,35,Caroline's Cannabis,105,2/22/2021
+23,50,50,50,INSA (Easthampton),150,2/22/2021
+24,50,50,50,INSA (Salem),150,2/22/2021
+25,0,0,20,Cape Ann Cannabis,20,2/23/2021
+26,0,0,20,Fine Fettle,20,2/23/2021
+27,0,0,50,Mission Georgetown,50,2/23/2021
+28,0,0,75,Stem,75,2/23/2021
+29,0,0,11,The Botanist (Shrewsbury),11,2/24/2021
+30,0,0,15,The Botanist (Worcester),15,2/24/2021
+31,0,0,50,Campfire Cannabis,50,2/24/2021
+32,0,0,25,Resinate (Worcester),25,2/24/2021
+33,0,0,20,Seagrass,20,2/24/2021
+34,12,12,75,Canna Vana,99,2/25/2021
+35,0,0,25,Resinate (Northampton),25,2/25/2021
+36,10,20,20,b\well,50,2/26/2021
+37,0,0,65,Canna Provisions - Holyoke,65,2/26/2021
+38,20,15,15,The Pass,50,2/26/2021
+39,13,14,16,RISE,43,2/26/2021
+40,25,25,75,Panacea Wellness,125,3/2/2021
+41,0,0,18,Alternative Therapies Group (Amesbury),18,3/3/2021
+42,0,0,36,Alternative Therapies Group (Salem),36,3/3/2021
+43,0,0,18,Alternative Therapies Group (Salisbury),18,3/3/2021
+44,0,0,50,Mission Georgetown,50,3/3/2021
+45,5,5,5,Fine Fettle,15,3/4/2021
+46,0,0,15,Nature's Remedy (Millbury),15,3/4/2021
+47,0,0,50,Nature's Remedy (Tyngsborough),50,3/4/2021
+48,35,32,32,Garden Remedies - Melrose,99,3/9/2021
+49,32,23,23,Garden Remedies - Newton,78,3/9/2021
+50,40,40,0,Mission Georgetown,80,3/9/2021
+51,20,20,10,Seagrass,50,3/9/2021
+52,75,75,0,Green Star - Dracut,150,3/10/2021
+53,40,40,0,Nature's Remedy (Tyngsborough),80,3/10/2021
+54,31,27,27,Garden Remedies - Marlboro,85,3/11/2021
+55,20,20,0,Mission Worcester,40,3/11/2021
+56,15,15,0,Nature's Remedy (Millbury),30,3/11/2021
+57,70,70,0,Stem,140,3/15/2021
+58,50,50,0,Bask,100,3/16/2021
+59,30,45,0,Canna Vana,75,3/16/2021
+60,50,50,0,In Good Health,100,3/16/2021
+61,10,35,0,The Pass,45,3/16/2021
+62,25,25,0,Rev Clinics,50,3/16/2021
+63,40,40,18,Canna Provisions - Holyoke,98,3/17/2021
+64,48,50,0,Garden Wonders,98,3/17/2021
+65,10,10,0,Resinate (Northampton),20,3/17/2021
+66,12,12,0,RISE,24,3/17/2021
+67,35,32,0,Garden Remedies - Melrose,67,3/18/2021
+68,32,23,0,Garden Remedies - Newton,55,3/18/2021
+69,30,30,0,Mission Georgetown,60,3/19/2021
+70,12,12,0,Alternative Therapies Group (Salem),24,3/22/2021
+71,50,50,0,Green Star - Maynard,100,3/22/2021
+72,5,5,0,Ermont,10,3/23/2021
+73,29,21,0,Health Circle,50,3/23/2021
+74,6,6,0,Pure Oasis,12,3/23/2021
+75,45,0,0,Rebelle,45,3/23/2021
+76,27,18,0,Sunnyside,45,3/23/2021
+77,15,15,0,The Botanist (Shrewsbury),30,3/25/2021
+78,15,15,0,The Botanist (Worcester),30,3/25/2021
+79,18,24,0,Campfire Cannabis,42,3/25/2021
+80,50,60,0,Canna Provisions - Holyoke,110,3/25/2021
+81,18,18,0,Caroline's Cannabis,36,3/25/2021
+82,25,25,0,DDM,50,3/25/2021
+83,15,15,0,Resinate (Worcester),30,3/25/2021
+84,6,6,0,Fine Fettle,12,3/26/2021
+85,14,6,0,Garden Remedies - Melrose,20,3/26/2021
+86,16,9,0,Garden Remedies - Newton,25,3/26/2021
+87,33,33,0,Patriot Care Lowell,66,3/26/2021
+88,6,6,24,Alternative Therapies Group (Amesbury),36,3/29/2021
+89,8,8,4,Alternative Therapies Group (Salem),20,3/29/2021
+90,0,0,24,Alternative Therapies Group (Salisbury),24,3/29/2021
+91,20,20,5,b\well,45,3/29/2021
+92,10,15,15,Bloom Brothers,40,3/29/2021
+93,15,15,15,Cape Ann Cannabis,45,3/29/2021
+94,20,20,20,CNA,60,3/29/2021
+95,14,13,13,Full Harvest Moonz,40,3/29/2021
+96,20,20,53,Patriot Care Greenfield,93,3/29/2021
+97,20,20,20,Seagrass,60,3/29/2021
+98,10,15,15,Bloom Brothers,40,3/30/2021
+99,0,0,60,Canna Vana,60,3/30/2021
+100,15,15,15,Green 4 All,45,3/30/2021
+101,0,0,25,Health Circle,25,3/30/2021
+102,10,10,30,In Good Health,50,3/30/2021
+103,15,15,15,Northeast Alternatives,45,3/30/2021
+104,20,10,20,The Pass,50,3/30/2021
+105,0,45,45,Rebelle,90,3/30/2021
+106,25,25,23,Rev Clinics,73,3/30/2021
+107,12,0,18,Sunnyside,30,3/30/2021
+108,20,20,20,Cannabis Connection,60,3/31/2021
+109,25,0,25,Canna Provisions - Holyoke,50,3/31/2021
+110,9,2,9,The Hempist,20,3/31/2021
+111,15,15,15,Resinate (Northampton),45,3/31/2021
+112,0,0,2,Rev Clinics,2,3/31/2021
+113,12,12,12,RISE,36,3/31/2021
+114,22,5,23,Turning Leaf,50,3/31/2021
+115,7,8,15,The Botanist (Shrewsbury),30,4/1/2021
+116,7,8,15,The Botanist (Worcester),30,4/1/2021
+117,10,10,10,Buds & Roses,30,4/1/2021
+118,3,3,14,Campfire Cannabis,20,4/1/2021
+119,0,0,20,DDM,20,4/1/2021
+120,13,1,9,Garden Remedies - Marlboro,23,4/1/2021
+121,0,0,25,Garden Wonders,25,4/1/2021
+122,10,10,10,Native Sun,30,4/1/2021
+123,40,40,21,Apothca (All),101,4/2/2021
+124,13,25,49,Garden Remedies - Melrose,87,4/2/2021
+125,18,10,42,Garden Remedies - Newton,70,4/2/2021
+126,4,4,4,Fine Fettle,12,4/5/2021
+127,5,5,5,Green Meadows,15,4/5/2021
+128,0,0,30,Green Star - Dracut,30,4/5/2021
+129,15,15,15,Lazy River,45,4/5/2021
+130,40,40,40,Mission Georgetown,120,4/5/2021
+131,33,33,34,Apotho Therapeutics,100,4/6/2021
+132,0,48,0,Canna Vana,48,4/6/2021
+133,33,33,34,Cape Cod Cannabis,100,4/6/2021
+134,10,10,10,Elevated Roots,30,4/6/2021
+135,8,8,8,Ermont,24,4/6/2021
+136,10,10,10,Middlesex Integrative Medicine,30,4/6/2021
+137,10,25,15,Canna Provisions - Holyoke,50,4/7/2021
+138,5,10,5,The Hempist,20,4/7/2021
+139,100,100,125,INSA (Easthampton),325,4/7/2021
+140,24,12,12,Caroline's Cannabis,48,4/8/2021
+141,8,8,8,Cultivate,24,4/8/2021
+142,15,15,15,Nature's Remedy (Millbury),45,4/8/2021
+143,3,6,12,Resinate (Worcester),21,4/8/2021
+144,10,10,10,Alternative Compassion Services,30,4/9/2021
+145,24,14,0,Garden Remedies - Melrose,38,4/9/2021
+146,7,16,0,Garden Remedies - Newton,23,4/9/2021
+147,20,20,20,CNA,60,4/12/2021
+148,30,30,30,Nature's Remedy (Tyngsborough),90,4/12/2021
+149,30,30,30,Seagrass,90,4/12/2021
+150,40,40,40,Stem,120,4/12/2021
+151,15,15,15,Bloom Brothers,45,4/13/2021
+152,30,0,0,Canna Vana,30,4/13/2021
+153,15,15,15,Ermont,45,4/13/2021
+154,15,15,15,Farnsworth Fine Cannabis,45,4/13/2021
+155,20,20,20,In Good Health,60,4/13/2021
+156,10,10,10,Middlesex Integrative Medicine,30,4/13/2021
+157,10,30,10,Northeast Alternatives,50,4/13/2021
+158,15,30,5,The Pass,50,4/13/2021
+159,25,25,25,Rev Clinics,75,4/13/2021
+160,6,0,18,Sunnyside,24,4/13/2021
+161,10,10,10,Cannabis Connection,30,4/14/2021
+162,15,20,15,Canna Provisions - Holyoke,50,4/14/2021
+163,10,10,10,Heirloom Collective,30,4/14/2021
+164,20,20,20,Patriot Care Greenfield,60,4/14/2021
+165,6,6,12,RISE,24,4/14/2021
+166,5,8,5,Central Ave Compassionate Care,18,4/15/2021
+167,9,15,9,Gage,33,4/15/2021
+168,22,8,8,Garden Remedies - Marlboro,38,4/15/2021
+169,6,6,12,Mission Worcester,24,4/15/2021
+170,7,14,12,Resinate (Worcester),33,4/15/2021
+171,6,7,7,Temescal - Framingham,20,4/15/2021
+172,6,7,7,Temescal - Hudson,20,4/15/2021
+173,6,7,7,Temescal - Pittsfield,20,4/15/2021
+174,8,18,10,Campfire Cannabis,36,4/16/2021
+175,8,7,15,Elevated Roots,30,4/16/2021
+176,5,5,5,Fine Fettle,15,4/16/2021
+177,17,12,18,Garden Remedies - Melrose,47,4/16/2021
+178,22,28,21,Garden Remedies - Newton,71,4/16/2021
+179,5,5,5,Green Gold Group,15,4/16/2021
+180,0,21,0,Health Circle,21,4/16/2021
+181,12,12,12,Pure Oasis,36,4/16/2021
+182,8,8,8,Alternative Therapies Group (Amesbury),24,4/19/2021
+183,4,7,9,Alternative Therapies Group (Salem),20,4/19/2021
+184,15,15,15,Cape Ann Cannabis,45,4/19/2021
+185,14,13,13,Full Harvest Moonz,40,4/19/2021
+186,40,40,40,Mission Georgetown,120,4/19/2021
+187,10,10,10,Patriot Care Lowell,30,4/19/2021
+188,10,10,10,Alternative Compassion Services,30,4/21/2021
+189,15,15,15,Ascend Wellness,45,4/21/2021
+190,18,24,18,Canna Vana,60,4/21/2021
+191,15,15,15,Green 4 All,45,4/21/2021
+192,20,25,20,Canna Provisions - Holyoke,65,4/22/2021
+193,18,12,0,Garden Remedies - Melrose,30,4/22/2021
+194,20,0,0,Garden Remedies - Newton,20,4/22/2021
+195,10,10,10,Rev Clinics,30,4/22/2021
+196,6,6,8,RISE,20,4/22/2021
+197,8,7,15,The Botanist (Worcester),30,4/23/2021
+198,8,8,8,Cultivate,24,4/23/2021
+199,7,7,7,Garden Remedies - Marlboro,21,4/23/2021
+200,10,10,10,Native Sun,30,4/23/2021
+201,6,7,7,Temescal - Framingham,20,4/23/2021
+202,6,12,6,Alternative Therapies Group (Amesbury),24,4/26/2021
+203,8,8,8,Alternative Therapies Group (Salem),24,4/26/2021
+204,0,0,16,Alternative Therapies Group (Salisbury),16,4/26/2021
+205,20,20,20,CNA,60,4/26/2021
+206,5,5,5,Fine Fettle,15,4/26/2021
+207,5,10,15,Lazy River,30,4/26/2021
+208,15,10,25,The Pass,50,4/26/2021
+209,0,0,20,Bask,20,4/27/2021
+210,16,16,19,Elevated Roots,51,4/27/2021
+211,18,18,18,In Good Health,54,4/27/2021
+212,10,10,10,Cannabis Connection,30,4/28/2021
+213,25,30,25,Canna Provisions - Holyoke,80,4/28/2021
+214,10,10,10,NETA (Northampton),30,4/28/2021
+215,9,9,9,RISE,27,4/28/2021
+216,12,6,6,Campfire Cannabis,24,4/29/2021
+217,16,10,8,Garden Remedies - Marlboro,34,4/29/2021
+218,8,4,8,Resinate (Worcester),20,4/29/2021
+219,6,7,7,Temescal - Pittsfield,20,4/29/2021
+220,37,15,22,Garden Remedies - Melrose,74,4/30/2021
+221,22,6,9,Garden Remedies - Newton,37,4/30/2021
+222,5,5,5,Green Meadows,15,4/30/2021
+223,10,10,10,NETA (Brookline),30,4/30/2021
