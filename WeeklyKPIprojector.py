@@ -67,6 +67,7 @@ def sales_rev(days):
     plt.xticks(rotation='vertical')
     fig.tight_layout(pad=3.0)
     st.pyplot(plt)
+    return spacing
 def orders_by_day(days):
     df=pd.read_csv("Levia_Live_Sales.csv")
     from bokeh.core.properties import value
@@ -100,7 +101,7 @@ def orders_by_day(days):
             except:
                 dfn[act][i]=0
 
-    st.dataframe(dfn)
+    #st.dataframe(dfn)
 
     data={"Years":[x[:-5] for x in days]}
 
@@ -173,7 +174,7 @@ def orders_by_acct(days):
             except:
                 dfn[flv][i]=0
 
-    st.dataframe(dfn)
+    #aframe(dfn)
     #dfn=dfn.sort_values(by="")
     data={"Years":[x for x in dfn.index]}
 
@@ -227,7 +228,7 @@ def orders_by_acct(days):
     st.bokeh_chart(p)
 
     pass
-def production_kpi(days):
+def production_kpi(days,spacing):
         plt.clf()
         c7,c8=st.beta_columns(2)
 
@@ -266,7 +267,7 @@ def production_kpi(days):
             ax[2].bar(sales["Date"],sales["Dre"])
             ax[2].bar(sales["Date"],sales["Cel"])
             ax[2].fmt_xdata = mdates.DateFormatter('%m/%d/%Y')
-            #ax[2].xaxis.set_major_locator(ticker.MultipleLocator(5))
+            ax[2].xaxis.set_major_locator(ticker.MultipleLocator(spacing))
             #ax[2].xaxis.set_minor_locator(ticker.MultipleLocator(1))
             ax[2].set_title('Cases Sold')
             ax[0].legend(["Ach","Dre","Cel"])
@@ -275,7 +276,7 @@ def production_kpi(days):
             else:
                 fig.suptitle('Joints Production Schedule', fontsize=16)
             fig.autofmt_xdate()
-
+            fig.tight_layout(pad=3.0)
             if penis ==0:
 
                 st.pyplot(plt)
@@ -341,10 +342,13 @@ def sales_by_act(days):
 
     st.pyplot(plt)
 st.title("Levia Dashboard")
+di=st.sidebar.number_input("Date Lookback Window ",value=30)
+d1=st.sidebar.date_input("Insert Start Date",(datetime.date.today() - datetime.timedelta(days=di)))
 
-d=st.sidebar.date_input("Insert Date")
-di=st.sidebar.number_input("Input Lookback Window ",value=8)
-dayss=[(d-datetime.timedelta(days=x)).strftime("%m/%d/%Y")for x in range(0,di,1)][::-1]
+d2=st.sidebar.date_input("Insert End Date",datetime.date.today())
+
+dayss=[(d2-datetime.timedelta(days=x)).strftime("%m/%d/%Y")for x in range(0,(d2-d1).days,1)][::-1]
+
 days=[]
 for day in dayss:
     d=""
@@ -358,9 +362,10 @@ for day in dayss:
     days.append(d)
 
 
+st.write(days)
 
-
-sales_rev(days)
+spacing=sales_rev(days)
+production_kpi(days,spacing)
 orders_by_day(days)
 orders_by_acct(days)
 
